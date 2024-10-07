@@ -1,0 +1,1292 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary,Job Role
+32.0,1,5,Back end Developer,6.0,130000.0,Engineering Roles
+46.0,0,3,Back end Developer,18.0,155795.0,Engineering Roles
+27.0,1,5,Back end Developer,5.0,87584.0,Engineering Roles
+27.0,0,5,Back end Developer,2.0,70000.0,Engineering Roles
+22.0,0,1,Back end Developer,0.0,51832.0,Engineering Roles
+26.0,1,3,Back end Developer,3.0,75072.0,Engineering Roles
+27.0,0,5,Back end Developer,2.0,70000.0,Engineering Roles
+35.0,1,5,Back end Developer,8.0,140000.0,Engineering Roles
+24.0,0,3,Back end Developer,1.0,60000.0,Engineering Roles
+27.0,1,3,Back end Developer,3.0,80000.0,Engineering Roles
+24.0,1,3,Back end Developer,1.0,55000.0,Engineering Roles
+36.0,1,5,Back end Developer,9.0,150000.0,Engineering Roles
+34.0,1,5,Back end Developer,8.0,140000.0,Engineering Roles
+24.0,1,3,Back end Developer,1.0,55935.0,Engineering Roles
+24.0,0,3,Back end Developer,1.0,60000.0,Engineering Roles
+30.0,1,3,Back end Developer,4.0,95000.0,Engineering Roles
+27.0,0,5,Back end Developer,2.0,70000.0,Engineering Roles
+27.0,0,3,Back end Developer,3.0,80000.0,Engineering Roles
+30.0,1,3,Back end Developer,5.0,100000.0,Engineering Roles
+33.0,0,5,Back end Developer,9.0,124141.0,Engineering Roles
+38.0,1,3,Back end Developer,12.0,132442.0,Engineering Roles
+32.0,1,5,Back end Developer,7.0,120000.0,Engineering Roles
+26.0,1,3,Back end Developer,2.0,65000.0,Engineering Roles
+42.0,1,3,Back end Developer,18.0,150901.0,Engineering Roles
+30.0,1,3,Back end Developer,5.0,100000.0,Engineering Roles
+30.0,1,3,Back end Developer,5.0,100000.0,Engineering Roles
+30.0,1,3,Back end Developer,5.0,100000.0,Engineering Roles
+26.0,1,3,Back end Developer,3.0,75072.0,Engineering Roles
+34.0,1,5,Back end Developer,8.0,140000.0,Engineering Roles
+28.0,0,5,Back end Developer,3.0,90000.0,Engineering Roles
+27.0,1,1,Back end Developer,4.0,80247.0,Engineering Roles
+46.0,0,3,Back end Developer,18.0,155795.0,Engineering Roles
+27.0,1,1,Back end Developer,4.0,79767.0,Engineering Roles
+27.0,0,5,Back end Developer,2.0,65000.0,Engineering Roles
+38.0,1,3,Back end Developer,12.0,132442.0,Engineering Roles
+27.0,1,3,Back end Developer,3.0,80000.0,Engineering Roles
+35.0,1,3,Back end Developer,10.0,123386.0,Engineering Roles
+27.0,0,5,Back end Developer,2.0,70000.0,Engineering Roles
+26.0,0,5,Back end Developer,3.0,90000.0,Engineering Roles
+27.0,1,3,Back end Developer,4.0,82683.0,Engineering Roles
+27.0,1,3,Back end Developer,3.0,85000.0,Engineering Roles
+46.0,0,3,Back end Developer,19.0,150729.0,Engineering Roles
+32.0,1,3,Back end Developer,4.0,95000.0,Engineering Roles
+27.0,1,1,Back end Developer,3.0,68611.0,Engineering Roles
+35.0,1,3,Back end Developer,8.0,140000.0,Engineering Roles
+30.0,1,3,Back end Developer,5.0,100000.0,Engineering Roles
+36.0,1,5,Back end Developer,9.0,150000.0,Engineering Roles
+30.0,1,3,Back end Developer,5.0,100000.0,Engineering Roles
+24.0,0,3,Back end Developer,1.0,60000.0,Engineering Roles
+30.0,1,3,Back end Developer,5.0,100000.0,Engineering Roles
+31.0,1,3,Back end Developer,8.0,100679.0,Engineering Roles
+27.0,0,5,Content Marketing Manager,4.0,80000.0,Marketing & Sales Roles
+41.0,1,3,Content Marketing Manager,12.0,120000.0,Marketing & Sales Roles
+43.0,0,3,Content Marketing Manager,12.0,120000.0,Marketing & Sales Roles
+29.0,0,5,Content Marketing Manager,4.0,80000.0,Marketing & Sales Roles
+32.0,0,3,Content Marketing Manager,7.0,90000.0,Marketing & Sales Roles
+50.0,0,5,Content Marketing Manager,19.0,190000.0,Marketing & Sales Roles
+27.0,0,5,Content Marketing Manager,4.0,80000.0,Marketing & Sales Roles
+41.0,1,3,Content Marketing Manager,12.0,120000.0,Marketing & Sales Roles
+27.0,0,5,Content Marketing Manager,4.0,80000.0,Marketing & Sales Roles
+41.0,1,3,Content Marketing Manager,12.0,120000.0,Marketing & Sales Roles
+27.0,0,5,Content Marketing Manager,4.0,80000.0,Marketing & Sales Roles
+41.0,1,3,Content Marketing Manager,12.0,120000.0,Marketing & Sales Roles
+51.0,0,5,Content Marketing Manager,19.0,190000.0,Marketing & Sales Roles
+27.0,0,5,Content Marketing Manager,4.0,80000.0,Marketing & Sales Roles
+41.0,0,3,Content Marketing Manager,11.0,110000.0,Marketing & Sales Roles
+31.0,1,2,Data Analyst,9.0,190000.0,Data & Analytics Roles
+26.0,1,2,Data Analyst,3.0,130000.0,Data & Analytics Roles
+27.0,1,2,Data Analyst,2.0,110000.0,Data & Analytics Roles
+26.0,1,2,Data Analyst,3.0,130000.0,Data & Analytics Roles
+25.0,0,2,Data Analyst,2.0,110000.0,Data & Analytics Roles
+31.0,1,2,Data Analyst,9.0,195000.0,Data & Analytics Roles
+24.0,1,2,Data Analyst,2.0,95000.0,Data & Analytics Roles
+27.0,1,2,Data Analyst,2.0,110000.0,Data & Analytics Roles
+23.0,1,2,Data Analyst,1.0,90000.0,Data & Analytics Roles
+29.0,0,2,Data Analyst,7.0,130000.0,Data & Analytics Roles
+31.0,1,2,Data Analyst,9.0,195000.0,Data & Analytics Roles
+24.0,1,2,Data Analyst,1.0,90000.0,Data & Analytics Roles
+26.0,1,2,Data Analyst,3.0,130000.0,Data & Analytics Roles
+26.0,1,2,Data Analyst,3.0,120000.0,Data & Analytics Roles
+25.0,0,2,Data Analyst,2.0,110000.0,Data & Analytics Roles
+24.0,1,2,Data Analyst,1.0,92000.0,Data & Analytics Roles
+25.0,0,2,Data Analyst,2.0,90000.0,Data & Analytics Roles
+26.0,0,2,Data Analyst,3.0,100000.0,Data & Analytics Roles
+23.0,1,2,Data Analyst,1.0,92000.0,Data & Analytics Roles
+25.0,0,2,Data Analyst,2.0,100000.0,Data & Analytics Roles
+29.0,0,2,Data Analyst,6.0,120000.0,Data & Analytics Roles
+30.0,0,2,Data Analyst,5.0,145000.0,Data & Analytics Roles
+25.0,0,2,Data Analyst,2.0,100000.0,Data & Analytics Roles
+25.0,1,2,Data Analyst,3.0,135000.0,Data & Analytics Roles
+26.0,1,2,Data Analyst,3.0,130000.0,Data & Analytics Roles
+30.0,0,2,Data Analyst,5.0,145000.0,Data & Analytics Roles
+24.0,1,2,Data Analyst,2.0,95000.0,Data & Analytics Roles
+25.0,0,2,Data Analyst,2.0,110000.0,Data & Analytics Roles
+25.0,0,2,Data Analyst,2.0,90000.0,Data & Analytics Roles
+26.0,1,2,Data Analyst,3.0,120000.0,Data & Analytics Roles
+34.0,1,5,Data Analyst,8.0,100000.0,Data & Analytics Roles
+26.0,1,2,Data Analyst,3.0,120000.0,Data & Analytics Roles
+26.0,1,2,Data Analyst,3.0,110000.0,Data & Analytics Roles
+25.0,0,2,Data Analyst,2.0,110000.0,Data & Analytics Roles
+33.0,0,5,Data Analyst,6.0,90000.0,Data & Analytics Roles
+26.0,1,2,Data Analyst,3.0,130000.0,Data & Analytics Roles
+31.0,1,2,Data Analyst,9.0,190000.0,Data & Analytics Roles
+31.0,1,2,Data Analyst,9.0,195000.0,Data & Analytics Roles
+29.0,0,4,Data Analyst,6.0,150000.0,Data & Analytics Roles
+29.0,0,2,Data Analyst,6.0,120000.0,Data & Analytics Roles
+26.0,1,2,Data Analyst,3.0,120000.0,Data & Analytics Roles
+24.0,1,2,Data Analyst,1.0,90000.0,Data & Analytics Roles
+31.0,1,2,Data Analyst,9.0,190000.0,Data & Analytics Roles
+25.0,0,2,Data Analyst,2.0,110000.0,Data & Analytics Roles
+26.0,1,2,Data Analyst,3.0,130000.0,Data & Analytics Roles
+32.0,1,3,Data Analyst,5.0,135000.0,Data & Analytics Roles
+25.0,0,4,Data Analyst,1.0,100000.0,Data & Analytics Roles
+25.0,0,4,Data Analyst,1.0,100000.0,Data & Analytics Roles
+25.0,1,2,Data Analyst,2.0,110000.0,Data & Analytics Roles
+25.0,0,2,Data Analyst,2.0,110000.0,Data & Analytics Roles
+31.0,1,2,Data Analyst,9.0,195000.0,Data & Analytics Roles
+24.0,1,2,Data Analyst,2.0,95000.0,Data & Analytics Roles
+26.0,1,2,Data Analyst,3.0,130000.0,Data & Analytics Roles
+29.0,1,2,Data Analyst,7.0,130000.0,Data & Analytics Roles
+26.0,1,2,Data Analyst,3.0,120000.0,Data & Analytics Roles
+24.0,1,2,Data Analyst,2.0,95000.0,Data & Analytics Roles
+29.0,1,2,Data Analyst,7.0,130000.0,Data & Analytics Roles
+30.0,0,2,Data Analyst,5.0,145000.0,Data & Analytics Roles
+26.0,1,2,Data Analyst,3.0,130000.0,Data & Analytics Roles
+31.0,1,2,Data Analyst,9.0,190000.0,Data & Analytics Roles
+26.0,1,2,Data Analyst,3.0,120000.0,Data & Analytics Roles
+25.0,0,2,Data Analyst,2.0,110000.0,Data & Analytics Roles
+31.0,1,2,Data Analyst,9.0,195000.0,Data & Analytics Roles
+30.0,0,2,Data Analyst,5.0,145000.0,Data & Analytics Roles
+26.0,1,2,Data Analyst,3.0,130000.0,Data & Analytics Roles
+31.0,1,2,Data Analyst,9.0,190000.0,Data & Analytics Roles
+24.0,1,2,Data Analyst,1.0,95000.0,Data & Analytics Roles
+33.0,1,5,Data Analyst,8.0,120000.0,Data & Analytics Roles
+33.0,1,3,Data Analyst,7.0,142000.0,Data & Analytics Roles
+30.0,1,2,Data Analyst,5.0,160000.0,Data & Analytics Roles
+24.0,1,2,Data Analyst,1.0,90000.0,Data & Analytics Roles
+27.0,1,2,Data Analyst,2.0,110000.0,Data & Analytics Roles
+35.0,0,5,Data Analyst,9.0,120000.0,Data & Analytics Roles
+25.0,1,2,Data Analyst,2.0,100000.0,Data & Analytics Roles
+35.0,0,5,Data Analyst,9.0,120000.0,Data & Analytics Roles
+30.0,0,6,Data Scientist,7.0,185000.0,Data & Analytics Roles
+31.0,0,6,Data Scientist,8.0,140000.0,Data & Analytics Roles
+29.0,0,4,Data Scientist,6.0,180000.0,Data & Analytics Roles
+30.0,1,6,Data Scientist,5.0,180000.0,Data & Analytics Roles
+45.0,1,6,Data Scientist,19.0,190000.0,Data & Analytics Roles
+28.0,0,6,Data Scientist,5.0,100000.0,Data & Analytics Roles
+28.0,0,4,Data Scientist,6.0,150000.0,Data & Analytics Roles
+45.0,1,6,Data Scientist,19.0,190000.0,Data & Analytics Roles
+31.0,0,6,Data Scientist,8.0,140000.0,Data & Analytics Roles
+31.0,0,6,Data Scientist,8.0,140000.0,Data & Analytics Roles
+40.0,1,6,Data Scientist,15.0,150000.0,Data & Analytics Roles
+34.0,1,5,Data Scientist,9.0,140000.0,Data & Analytics Roles
+44.0,1,6,Data Scientist,18.0,182000.0,Data & Analytics Roles
+27.0,1,6,Data Scientist,2.0,115000.0,Data & Analytics Roles
+27.0,1,6,Data Scientist,2.0,115000.0,Data & Analytics Roles
+29.0,0,4,Data Scientist,6.0,150000.0,Data & Analytics Roles
+34.0,1,5,Data Scientist,9.0,140000.0,Data & Analytics Roles
+33.0,1,6,Data Scientist,8.0,190000.0,Data & Analytics Roles
+30.0,0,6,Data Scientist,7.0,185000.0,Data & Analytics Roles
+30.0,0,6,Data Scientist,7.0,170000.0,Data & Analytics Roles
+30.0,0,6,Data Scientist,7.0,185000.0,Data & Analytics Roles
+37.0,0,5,Data Scientist,11.0,160000.0,Data & Analytics Roles
+30.0,0,6,Data Scientist,7.0,185000.0,Data & Analytics Roles
+38.0,1,3,Data Scientist,10.0,150000.0,Data & Analytics Roles
+29.0,0,4,Data Scientist,6.0,180000.0,Data & Analytics Roles
+32.0,0,6,Data Scientist,9.0,145000.0,Data & Analytics Roles
+41.0,1,6,Data Scientist,15.0,157000.0,Data & Analytics Roles
+42.0,1,6,Data Scientist,14.0,140000.0,Data & Analytics Roles
+27.0,1,6,Data Scientist,2.0,115000.0,Data & Analytics Roles
+31.0,1,4,Data Scientist,9.0,185000.0,Data & Analytics Roles
+32.0,0,2,Data Scientist,9.0,185000.0,Data & Analytics Roles
+47.0,1,6,Data Scientist,19.0,190000.0,Data & Analytics Roles
+29.0,0,4,Data Scientist,6.0,180000.0,Data & Analytics Roles
+34.0,1,5,Data Scientist,9.0,140000.0,Data & Analytics Roles
+31.0,1,5,Data Scientist,7.0,130000.0,Data & Analytics Roles
+29.0,0,4,Data Scientist,6.0,180000.0,Data & Analytics Roles
+32.0,0,2,Data Scientist,9.0,185000.0,Data & Analytics Roles
+28.0,0,4,Data Scientist,6.0,150000.0,Data & Analytics Roles
+32.0,0,6,Data Scientist,9.0,145000.0,Data & Analytics Roles
+48.0,1,6,Data Scientist,22.0,219000.0,Data & Analytics Roles
+29.0,0,4,Data Scientist,6.0,180000.0,Data & Analytics Roles
+31.0,0,6,Data Scientist,8.0,140000.0,Data & Analytics Roles
+29.0,0,6,Data Scientist,5.0,100000.0,Data & Analytics Roles
+43.0,1,6,Data Scientist,16.0,160000.0,Data & Analytics Roles
+50.0,1,6,Data Scientist,23.0,225000.0,Data & Analytics Roles
+33.0,1,6,Data Scientist,8.0,190000.0,Data & Analytics Roles
+40.0,1,6,Data Scientist,15.0,150000.0,Data & Analytics Roles
+41.0,1,6,Data Scientist,13.0,140000.0,Data & Analytics Roles
+40.0,1,6,Data Scientist,15.0,150000.0,Data & Analytics Roles
+43.0,1,6,Data Scientist,16.0,160000.0,Data & Analytics Roles
+44.0,1,6,Data Scientist,15.0,150000.0,Data & Analytics Roles
+34.0,1,5,Data Scientist,9.0,140000.0,Data & Analytics Roles
+30.0,0,6,Data Scientist,7.0,185000.0,Data & Analytics Roles
+51.0,1,6,Data Scientist,24.0,240000.0,Data & Analytics Roles
+43.0,1,6,Data Scientist,16.0,160000.0,Data & Analytics Roles
+29.0,1,4,Data Scientist,3.0,75000.0,Data & Analytics Roles
+32.0,0,6,Data Scientist,9.0,145000.0,Data & Analytics Roles
+29.0,0,4,Data Scientist,6.0,180000.0,Data & Analytics Roles
+31.0,0,6,Data Scientist,8.0,140000.0,Data & Analytics Roles
+32.0,0,6,Data Scientist,9.0,145000.0,Data & Analytics Roles
+30.0,0,6,Data Scientist,7.0,185000.0,Data & Analytics Roles
+47.0,1,6,Data Scientist,19.0,190000.0,Data & Analytics Roles
+32.0,1,6,Data Scientist,9.0,140000.0,Data & Analytics Roles
+47.0,1,6,Data Scientist,19.0,190000.0,Data & Analytics Roles
+28.0,0,6,Data Scientist,5.0,100000.0,Data & Analytics Roles
+30.0,0,6,Data Scientist,7.0,185000.0,Data & Analytics Roles
+31.0,0,6,Data Scientist,9.0,195000.0,Data & Analytics Roles
+31.0,1,4,Data Scientist,9.0,185000.0,Data & Analytics Roles
+42.0,1,6,Data Scientist,14.0,140000.0,Data & Analytics Roles
+40.0,1,6,Data Scientist,15.0,150000.0,Data & Analytics Roles
+30.0,1,6,Data Scientist,7.0,185000.0,Data & Analytics Roles
+41.0,1,6,Data Scientist,15.0,157000.0,Data & Analytics Roles
+29.0,0,4,Data Scientist,6.0,180000.0,Data & Analytics Roles
+30.0,0,6,Data Scientist,7.0,185000.0,Data & Analytics Roles
+34.0,1,5,Data Scientist,9.0,140000.0,Data & Analytics Roles
+34.0,1,5,Data Scientist,9.0,140000.0,Data & Analytics Roles
+41.0,1,6,Data Scientist,13.0,140000.0,Data & Analytics Roles
+41.0,1,6,Data Scientist,13.0,140000.0,Data & Analytics Roles
+43.0,1,6,Data Scientist,16.0,160000.0,Data & Analytics Roles
+31.0,0,6,Data Scientist,8.0,140000.0,Data & Analytics Roles
+30.0,0,6,Data Scientist,7.0,185000.0,Data & Analytics Roles
+34.0,1,5,Data Scientist,9.0,140000.0,Data & Analytics Roles
+50.0,1,6,Data Scientist,23.0,225000.0,Data & Analytics Roles
+30.0,0,6,Data Scientist,7.0,185000.0,Data & Analytics Roles
+34.0,1,5,Data Scientist,9.0,140000.0,Data & Analytics Roles
+47.0,1,6,Data Scientist,19.0,190000.0,Data & Analytics Roles
+29.0,0,4,Data Scientist,6.0,180000.0,Data & Analytics Roles
+44.0,1,6,Data Scientist,17.0,168000.0,Data & Analytics Roles
+29.0,0,4,Data Scientist,6.0,180000.0,Data & Analytics Roles
+35.0,0,5,Data Scientist,10.0,145000.0,Data & Analytics Roles
+42.0,1,6,Data Scientist,14.0,140000.0,Data & Analytics Roles
+28.0,0,5,Digital Marketing Manager,4.0,55000.0,Marketing & Sales Roles
+26.0,1,5,Digital Marketing Manager,3.0,50000.0,Marketing & Sales Roles
+29.0,1,3,Digital Marketing Manager,6.0,95000.0,Marketing & Sales Roles
+42.0,0,5,Digital Marketing Manager,14.0,140000.0,Marketing & Sales Roles
+29.0,1,3,Digital Marketing Manager,6.0,95000.0,Marketing & Sales Roles
+26.0,0,3,Digital Marketing Manager,4.0,60000.0,Marketing & Sales Roles
+42.0,0,5,Digital Marketing Manager,14.0,140000.0,Marketing & Sales Roles
+43.0,0,5,Digital Marketing Manager,15.0,150000.0,Marketing & Sales Roles
+42.0,0,5,Digital Marketing Manager,14.0,140000.0,Marketing & Sales Roles
+26.0,1,1,Digital Marketing Manager,2.0,40000.0,Marketing & Sales Roles
+25.0,1,5,Digital Marketing Manager,3.0,50000.0,Marketing & Sales Roles
+29.0,0,3,Digital Marketing Specialist,3.0,60000.0,Marketing & Sales Roles
+30.0,0,3,Digital Marketing Specialist,4.0,65000.0,Marketing & Sales Roles
+30.0,0,3,Digital Marketing Specialist,4.0,65000.0,Marketing & Sales Roles
+48.0,1,6,Director of Data Science,18.0,210000.0,Data & Analytics Roles
+48.0,1,6,Director of Data Science,18.0,210000.0,Data & Analytics Roles
+48.0,1,6,Director of Data Science,18.0,210000.0,Data & Analytics Roles
+48.0,1,6,Director of Data Science,18.0,210000.0,Data & Analytics Roles
+48.0,1,6,Director of Data Science,18.0,210000.0,Data & Analytics Roles
+48.0,1,6,Director of Data Science,18.0,210000.0,Data & Analytics Roles
+48.0,1,6,Director of Data Science,18.0,210000.0,Data & Analytics Roles
+48.0,1,6,Director of Data Science,18.0,210000.0,Data & Analytics Roles
+41.0,0,6,Director of Data Science,16.0,200000.0,Data & Analytics Roles
+48.0,1,6,Director of Data Science,18.0,210000.0,Data & Analytics Roles
+41.0,0,6,Director of Data Science,16.0,200000.0,Data & Analytics Roles
+41.0,0,6,Director of Data Science,16.0,200000.0,Data & Analytics Roles
+40.0,1,6,Director of HR,13.0,135000.0,Management Roles
+42.0,1,6,Director of HR,14.0,130000.0,Management Roles
+44.0,0,6,Director of HR,13.0,135000.0,Management Roles
+34.0,1,5,Director of HR,10.0,105000.0,Management Roles
+37.0,1,6,Director of HR,11.0,115000.0,Management Roles
+45.0,1,5,Director of HR,14.0,140000.0,Management Roles
+48.0,0,4,Director of HR,20.0,180000.0,Management Roles
+45.0,1,6,Director of HR,14.0,140000.0,Management Roles
+33.0,1,6,Director of HR,8.0,95000.0,Management Roles
+42.0,0,5,Director of HR,13.0,135000.0,Management Roles
+37.0,1,6,Director of HR,11.0,115000.0,Management Roles
+42.0,0,5,Director of HR,13.0,135000.0,Management Roles
+46.0,1,6,Director of HR,15.0,150000.0,Management Roles
+44.0,0,6,Director of HR,14.0,140000.0,Management Roles
+32.0,0,3,Director of Marketing,8.0,80000.0,Management Roles
+32.0,0,3,Director of Marketing,8.0,80000.0,Management Roles
+49.0,0,4,Director of Marketing,21.0,180000.0,Management Roles
+28.0,0,6,Director of Marketing,6.0,105000.0,Management Roles
+32.0,0,3,Director of Marketing,8.0,80000.0,Management Roles
+35.0,0,6,Director of Marketing,12.0,170000.0,Management Roles
+32.0,0,3,Director of Marketing,8.0,80000.0,Management Roles
+28.0,0,6,Director of Marketing,6.0,105000.0,Management Roles
+38.0,1,5,Director of Marketing,9.0,95000.0,Management Roles
+46.0,1,5,Director of Marketing,16.0,160000.0,Management Roles
+47.0,0,4,Director of Marketing,20.0,180000.0,Management Roles
+32.0,0,3,Director of Marketing,8.0,80000.0,Management Roles
+28.0,0,6,Director of Marketing,6.0,105000.0,Management Roles
+46.0,1,5,Director of Marketing,16.0,160000.0,Management Roles
+34.0,1,6,Director of Marketing,12.0,170000.0,Management Roles
+34.0,1,6,Director of Marketing,12.0,170000.0,Management Roles
+34.0,1,6,Director of Marketing,12.0,170000.0,Management Roles
+28.0,0,6,Director of Marketing,6.0,105000.0,Management Roles
+47.0,1,4,Director of Operations,19.0,170000.0,Management Roles
+46.0,1,4,Director of Operations,20.0,170000.0,Management Roles
+25.0,1,3,Financial Analyst,1.0,55000.0,Data & Analytics Roles
+35.0,1,2,Financial Analyst,6.0,65000.0,Data & Analytics Roles
+28.0,1,3,Financial Analyst,4.0,80000.0,Data & Analytics Roles
+31.0,1,5,Financial Analyst,6.0,100000.0,Data & Analytics Roles
+28.0,1,5,Financial Analyst,4.0,90000.0,Data & Analytics Roles
+24.0,1,3,Financial Analyst,1.0,55000.0,Data & Analytics Roles
+25.0,1,3,Financial Analyst,1.0,55000.0,Data & Analytics Roles
+24.0,1,3,Financial Analyst,1.0,55000.0,Data & Analytics Roles
+40.0,0,3,Financial Manager,16.0,215000.0,Management Roles
+32.0,0,5,Financial Manager,8.0,120000.0,Management Roles
+40.0,0,3,Financial Manager,16.0,215000.0,Management Roles
+39.0,0,3,Financial Manager,16.0,200000.0,Management Roles
+39.0,0,3,Financial Manager,15.0,200000.0,Management Roles
+30.0,1,5,Financial Manager,7.0,120000.0,Management Roles
+29.0,0,3,Financial Manager,4.0,55000.0,Management Roles
+39.0,0,3,Financial Manager,16.0,200000.0,Management Roles
+31.0,0,5,Financial Manager,8.0,120000.0,Management Roles
+42.0,1,3,Financial Manager,13.0,130000.0,Management Roles
+26.0,0,1,Financial Manager,3.0,45000.0,Management Roles
+40.0,0,3,Financial Manager,16.0,215000.0,Management Roles
+39.0,0,3,Financial Manager,16.0,200000.0,Management Roles
+39.0,0,3,Financial Manager,16.0,200000.0,Management Roles
+30.0,1,5,Financial Manager,7.0,120000.0,Management Roles
+29.0,0,3,Financial Manager,4.0,55000.0,Management Roles
+31.0,0,5,Financial Manager,7.0,120000.0,Management Roles
+33.0,0,6,Financial Manager,6.0,75000.0,Management Roles
+39.0,0,3,Financial Manager,16.0,200000.0,Management Roles
+39.0,0,3,Financial Manager,16.0,200000.0,Management Roles
+30.0,1,5,Financial Manager,7.0,120000.0,Management Roles
+29.0,0,3,Financial Manager,4.0,55000.0,Management Roles
+32.0,0,5,Financial Manager,8.0,120000.0,Management Roles
+40.0,0,3,Financial Manager,15.0,210000.0,Management Roles
+30.0,1,5,Financial Manager,7.0,120000.0,Management Roles
+40.0,0,3,Financial Manager,16.0,215000.0,Management Roles
+29.0,1,3,Front End Developer,4.0,80000.0,Engineering Roles
+29.0,1,3,Front End Developer,4.0,80000.0,Engineering Roles
+29.0,1,3,Front End Developer,4.0,80000.0,Engineering Roles
+29.0,1,3,Front End Developer,4.0,80000.0,Engineering Roles
+29.0,1,3,Front End Developer,4.0,80000.0,Engineering Roles
+22.0,1,3,Front End Developer,1.0,50000.0,Engineering Roles
+24.0,1,3,Front end Developer,1.0,60000.0,Engineering Roles
+27.0,1,3,Front end Developer,3.0,80000.0,Engineering Roles
+30.0,0,5,Front end Developer,5.0,105000.0,Engineering Roles
+27.0,1,3,Front end Developer,2.0,70000.0,Engineering Roles
+30.0,0,3,Front end Developer,2.0,75000.0,Engineering Roles
+30.0,0,5,Front end Developer,5.0,105000.0,Engineering Roles
+30.0,0,5,Front end Developer,5.0,105000.0,Engineering Roles
+29.0,1,3,Front end Developer,3.0,80000.0,Engineering Roles
+34.0,1,3,Front end Developer,5.0,95000.0,Engineering Roles
+38.0,1,3,Front end Developer,11.0,136285.0,Engineering Roles
+33.0,0,5,Front end Developer,9.0,121120.0,Engineering Roles
+29.0,0,3,Front end Developer,4.0,90000.0,Engineering Roles
+27.0,1,3,Front end Developer,3.0,80000.0,Engineering Roles
+28.0,1,3,Front end Developer,2.0,70000.0,Engineering Roles
+38.0,1,3,Front end Developer,11.0,136662.0,Engineering Roles
+23.0,1,3,Front end Developer,1.0,55000.0,Engineering Roles
+27.0,1,3,Front end Developer,3.0,80000.0,Engineering Roles
+32.0,1,3,Front end Developer,6.0,110000.0,Engineering Roles
+36.0,1,3,Front end Developer,12.0,137878.0,Engineering Roles
+26.0,0,5,Front end Developer,1.0,55000.0,Engineering Roles
+29.0,0,3,Front end Developer,4.0,90000.0,Engineering Roles
+27.0,1,3,Front end Developer,2.0,65000.0,Engineering Roles
+23.0,2,1,Front end Developer,2.0,62852.0,Engineering Roles
+36.0,1,3,Front end Developer,12.0,137878.0,Engineering Roles
+27.0,1,3,Front end Developer,3.0,80000.0,Engineering Roles
+28.0,1,3,Front end Developer,2.0,70000.0,Engineering Roles
+23.0,1,3,Front end Developer,1.0,55000.0,Engineering Roles
+27.0,1,3,Front end Developer,2.0,65000.0,Engineering Roles
+27.0,1,3,Front end Developer,2.0,65000.0,Engineering Roles
+27.0,1,3,Front end Developer,2.0,70000.0,Engineering Roles
+28.0,0,3,Front end Developer,2.0,65000.0,Engineering Roles
+34.0,1,5,Front end Developer,9.0,150000.0,Engineering Roles
+29.0,0,3,Front end Developer,4.0,90000.0,Engineering Roles
+27.0,1,3,Front end Developer,3.0,80000.0,Engineering Roles
+27.0,1,3,Front end Developer,2.0,65000.0,Engineering Roles
+27.0,1,3,Front end Developer,3.0,80000.0,Engineering Roles
+33.0,0,5,Front end Developer,9.0,119918.0,Engineering Roles
+27.0,1,3,Front end Developer,3.0,80000.0,Engineering Roles
+28.0,1,3,Front end Developer,2.0,70000.0,Engineering Roles
+38.0,1,3,Front end Developer,11.0,136062.0,Engineering Roles
+28.0,0,3,Front end Developer,2.0,65000.0,Engineering Roles
+28.0,0,3,Front end Developer,3.0,80000.0,Engineering Roles
+38.0,1,3,Front end Developer,11.0,136662.0,Engineering Roles
+35.0,1,3,Front end Developer,10.0,128999.0,Engineering Roles
+26.0,0,5,Front end Developer,4.0,76898.0,Engineering Roles
+25.0,0,3,Front end Developer,1.0,55000.0,Engineering Roles
+23.0,2,1,Front end Developer,2.0,62852.0,Engineering Roles
+26.0,0,5,Front end Developer,2.0,65840.0,Engineering Roles
+33.0,1,5,Full Stack Engineer,6.0,130000.0,Engineering Roles
+33.0,0,5,Full Stack Engineer,9.0,136986.0,Engineering Roles
+28.0,0,5,Full Stack Engineer,4.0,110000.0,Engineering Roles
+43.0,1,5,Full Stack Engineer,21.0,187951.0,Engineering Roles
+26.0,1,5,Full Stack Engineer,4.0,102859.0,Engineering Roles
+29.0,0,3,Full Stack Engineer,6.0,91903.0,Engineering Roles
+28.0,1,5,Full Stack Engineer,5.0,84181.0,Engineering Roles
+35.0,1,5,Full Stack Engineer,9.0,132638.0,Engineering Roles
+36.0,1,5,Full Stack Engineer,11.0,138859.0,Engineering Roles
+32.0,0,5,Full Stack Engineer,6.0,115000.0,Engineering Roles
+33.0,0,5,Full Stack Engineer,6.0,115000.0,Engineering Roles
+26.0,1,5,Full Stack Engineer,3.0,70216.0,Engineering Roles
+27.0,0,5,Full Stack Engineer,3.0,100000.0,Engineering Roles
+33.0,0,5,Full Stack Engineer,8.0,122970.0,Engineering Roles
+33.0,0,3,Full Stack Engineer,8.0,124071.0,Engineering Roles
+29.0,0,5,Full Stack Engineer,5.0,102868.0,Engineering Roles
+26.0,1,5,Full Stack Engineer,3.0,88678.0,Engineering Roles
+28.0,0,5,Full Stack Engineer,7.0,115920.0,Engineering Roles
+34.0,0,5,Full Stack Engineer,10.0,163398.0,Engineering Roles
+33.0,0,3,Full Stack Engineer,7.0,130000.0,Engineering Roles
+33.0,0,3,Full Stack Engineer,7.0,130000.0,Engineering Roles
+37.0,2,5,Full Stack Engineer,14.0,161393.0,Engineering Roles
+42.0,0,5,Full Stack Engineer,14.0,163978.0,Engineering Roles
+33.0,0,3,Full Stack Engineer,6.0,115000.0,Engineering Roles
+33.0,0,3,Full Stack Engineer,7.0,130000.0,Engineering Roles
+54.0,1,5,Full Stack Engineer,28.0,191239.0,Engineering Roles
+36.0,0,5,Full Stack Engineer,8.0,140000.0,Engineering Roles
+31.0,1,3,Full Stack Engineer,6.0,115000.0,Engineering Roles
+29.0,0,6,Full Stack Engineer,5.0,98568.0,Engineering Roles
+26.0,1,5,Full Stack Engineer,4.0,89843.0,Engineering Roles
+30.0,1,5,Full Stack Engineer,5.0,105000.0,Engineering Roles
+26.0,1,5,Full Stack Engineer,4.0,91397.0,Engineering Roles
+33.0,0,3,Full Stack Engineer,6.0,115000.0,Engineering Roles
+31.0,0,5,Full Stack Engineer,6.0,101186.0,Engineering Roles
+44.0,1,5,Full Stack Engineer,21.0,168906.0,Engineering Roles
+33.0,0,3,Full Stack Engineer,6.0,115000.0,Engineering Roles
+31.0,0,5,Full Stack Engineer,7.0,108799.0,Engineering Roles
+30.0,0,3,Full Stack Engineer,5.0,100000.0,Engineering Roles
+33.0,0,3,Full Stack Engineer,6.0,115000.0,Engineering Roles
+32.0,0,5,Full Stack Engineer,6.0,115000.0,Engineering Roles
+36.0,1,5,Full Stack Engineer,13.0,146351.0,Engineering Roles
+35.0,1,3,Full Stack Engineer,8.0,145000.0,Engineering Roles
+35.0,1,5,Full Stack Engineer,9.0,131547.0,Engineering Roles
+28.0,0,5,Full Stack Engineer,4.0,110000.0,Engineering Roles
+26.0,1,5,Full Stack Engineer,3.0,91397.0,Engineering Roles
+26.0,1,5,Full Stack Engineer,4.0,91062.0,Engineering Roles
+32.0,0,5,Full Stack Engineer,6.0,115000.0,Engineering Roles
+31.0,1,5,Full Stack Engineer,6.0,130000.0,Engineering Roles
+33.0,0,3,Full Stack Engineer,7.0,130000.0,Engineering Roles
+27.0,0,5,Full Stack Engineer,3.0,100000.0,Engineering Roles
+31.0,1,5,Full Stack Engineer,7.0,140000.0,Engineering Roles
+33.0,0,3,Full Stack Engineer,7.0,130000.0,Engineering Roles
+35.0,1,5,Full Stack Engineer,9.0,132638.0,Engineering Roles
+31.0,1,5,Full Stack Engineer,8.0,115326.96477086132,Engineering Roles
+50.0,0,5,Full Stack Engineer,24.0,192756.0,Engineering Roles
+42.0,1,5,Full Stack Engineer,19.0,177347.0,Engineering Roles
+28.0,0,5,Full Stack Engineer,4.0,110000.0,Engineering Roles
+38.0,1,5,Full Stack Engineer,15.0,170995.0,Engineering Roles
+30.0,1,5,Full Stack Engineer,5.0,105000.0,Engineering Roles
+42.0,1,5,Full Stack Engineer,19.0,177347.0,Engineering Roles
+32.0,1,5,Full Stack Engineer,6.0,120000.0,Engineering Roles
+42.0,1,5,Full Stack Engineer,19.0,176643.0,Engineering Roles
+33.0,0,3,Full Stack Engineer,7.0,130000.0,Engineering Roles
+26.0,0,3,Graphic Designer,1.0,45000.0,Creative Roles
+27.0,0,3,Graphic Designer,2.0,50000.0,Creative Roles
+27.0,0,3,Graphic Designer,2.0,50000.0,Creative Roles
+27.0,0,3,Graphic Designer,2.0,50000.0,Creative Roles
+27.0,0,3,Graphic Designer,2.0,50000.0,Creative Roles
+30.0,0,5,Human Resources Coordinator,3.0,49000.0,HR & Operations Roles
+28.0,0,5,Human Resources Coordinator,2.0,45000.0,HR & Operations Roles
+29.0,0,3,Human Resources Coordinator,2.0,45000.0,HR & Operations Roles
+26.0,0,5,Human Resources Coordinator,3.0,50000.0,HR & Operations Roles
+26.0,0,5,Human Resources Coordinator,3.0,50000.0,HR & Operations Roles
+27.0,0,5,Human Resources Coordinator,3.0,50000.0,HR & Operations Roles
+29.0,0,3,Human Resources Coordinator,2.0,45000.0,HR & Operations Roles
+27.0,0,5,Human Resources Coordinator,3.0,50000.0,HR & Operations Roles
+28.0,0,5,Human Resources Coordinator,2.0,45000.0,HR & Operations Roles
+30.0,0,5,Human Resources Coordinator,3.0,49000.0,HR & Operations Roles
+35.0,0,5,Human Resources Manager,8.0,92000.0,Management Roles
+35.0,0,5,Human Resources Manager,8.0,92000.0,Management Roles
+40.0,0,5,Human Resources Manager,11.0,120000.0,Management Roles
+33.0,0,3,Human Resources Manager,8.0,95000.0,Management Roles
+35.0,0,3,Human Resources Manager,8.0,92000.0,Management Roles
+33.0,0,3,Human Resources Manager,8.0,95000.0,Management Roles
+39.0,0,5,Human Resources Manager,11.0,120000.0,Management Roles
+33.0,0,3,Human Resources Manager,6.0,75000.0,Management Roles
+33.0,0,3,Human Resources Manager,8.0,95000.0,Management Roles
+40.0,0,5,Human Resources Manager,11.0,120000.0,Management Roles
+33.0,0,3,Human Resources Manager,6.0,75000.0,Management Roles
+44.0,0,5,Human Resources Manager,15.0,152000.0,Management Roles
+44.0,0,5,Human Resources Manager,15.0,152000.0,Management Roles
+43.0,0,5,Human Resources Manager,14.0,146000.0,Management Roles
+40.0,0,5,Human Resources Manager,12.0,130000.0,Management Roles
+43.0,0,5,Human Resources Manager,14.0,146000.0,Management Roles
+34.0,0,3,Human Resources Manager,6.0,75000.0,Management Roles
+39.0,0,5,Human Resources Manager,11.0,120000.0,Management Roles
+33.0,0,3,Human Resources Manager,6.0,75000.0,Management Roles
+33.0,0,3,Human Resources Manager,6.0,75000.0,Management Roles
+43.0,0,5,Human Resources Manager,14.0,146000.0,Management Roles
+27.0,1,3,Junior Data Analyst,2.0,50000.0,Data & Analytics Roles
+28.0,1,3,Junior Data Analyst,3.0,52000.0,Data & Analytics Roles
+36.0,1,2,Junior Data Analyst,7.0,60000.0,Data & Analytics Roles
+28.0,1,3,Junior Data Analyst,3.0,52000.0,Data & Analytics Roles
+27.0,1,3,Junior Data Analyst,2.0,50000.0,Data & Analytics Roles
+31.0,0,3,Junior HR Coordinator,4.0,50000.0,HR & Operations Roles
+30.0,1,1,Junior HR Coordinator,2.0,33000.0,HR & Operations Roles
+31.0,0,3,Junior HR Coordinator,4.0,50000.0,HR & Operations Roles
+31.0,0,2,Junior HR Coordinator,4.0,50000.0,HR & Operations Roles
+25.0,0,1,Junior HR Coordinator,1.0,32000.0,HR & Operations Roles
+31.0,0,1,Junior HR Coordinator,3.0,38000.0,HR & Operations Roles
+27.0,0,1,Junior HR Generalist,1.0,32000.0,HR & Operations Roles
+25.0,1,1,Junior HR Generalist,2.0,40000.0,HR & Operations Roles
+27.0,0,1,Junior HR Generalist,1.0,32000.0,HR & Operations Roles
+31.0,1,1,Junior HR Generalist,2.0,35000.0,HR & Operations Roles
+31.0,1,1,Junior HR Generalist,2.0,35000.0,HR & Operations Roles
+26.0,0,3,Junior HR Generalist,1.0,32000.0,HR & Operations Roles
+27.0,0,3,Junior HR Generalist,2.0,42000.0,HR & Operations Roles
+25.0,0,5,Junior HR Generalist,1.0,32000.0,HR & Operations Roles
+23.0,0,3,Junior HR Generalist,1.0,32000.0,HR & Operations Roles
+30.0,1,1,Junior HR Generalist,1.0,32000.0,HR & Operations Roles
+27.0,0,1,Junior HR Generalist,1.0,32000.0,HR & Operations Roles
+26.0,0,3,Junior HR Generalist,2.0,42000.0,HR & Operations Roles
+29.0,0,3,Junior Marketing Manager,3.0,55000.0,Marketing & Sales Roles
+30.0,0,3,Junior Marketing Manager,4.0,57000.0,Marketing & Sales Roles
+31.0,1,3,Junior Marketing Manager,5.0,70000.0,Marketing & Sales Roles
+29.0,0,3,Junior Marketing Manager,3.0,55000.0,Marketing & Sales Roles
+29.0,0,3,Junior Marketing Manager,3.0,55000.0,Marketing & Sales Roles
+29.0,0,3,Junior Marketing Manager,3.0,55000.0,Marketing & Sales Roles
+32.0,1,3,Junior Marketing Manager,6.0,72000.0,Marketing & Sales Roles
+29.0,0,3,Junior Marketing Manager,3.0,55000.0,Marketing & Sales Roles
+32.0,1,3,Junior Marketing Manager,6.0,72000.0,Marketing & Sales Roles
+31.0,1,3,Junior Marketing Manager,5.0,70000.0,Marketing & Sales Roles
+26.0,1,1,Junior Sales Associate,2.0,30000.0,Marketing & Sales Roles
+28.0,1,1,Junior Sales Associate,2.0,35000.0,Marketing & Sales Roles
+27.0,1,1,Junior Sales Associate,2.0,35000.0,Marketing & Sales Roles
+30.0,0,1,Junior Sales Associate,1.0,26000.0,Marketing & Sales Roles
+24.0,1,1,Junior Sales Associate,1.0,25000.0,Marketing & Sales Roles
+30.0,0,1,Junior Sales Associate,1.0,25000.0,Marketing & Sales Roles
+26.0,1,1,Junior Sales Associate,2.0,31000.0,Marketing & Sales Roles
+23.0,1,1,Junior Sales Associate,1.0,26000.0,Marketing & Sales Roles
+25.0,1,1,Junior Sales Associate,1.0,30000.0,Marketing & Sales Roles
+29.0,0,1,Junior Sales Associate,1.0,25000.0,Marketing & Sales Roles
+24.0,1,1,Junior Sales Associate,1.0,25000.0,Marketing & Sales Roles
+26.0,1,1,Junior Sales Associate,2.0,30000.0,Marketing & Sales Roles
+25.0,1,1,Junior Sales Associate,1.0,30000.0,Marketing & Sales Roles
+25.0,1,1,Junior Sales Associate,1.0,30000.0,Marketing & Sales Roles
+27.0,1,1,Junior Sales Associate,2.0,35000.0,Marketing & Sales Roles
+28.0,0,1,Junior Sales Associate,1.0,30000.0,Marketing & Sales Roles
+29.0,0,1,Junior Sales Associate,1.0,26000.0,Marketing & Sales Roles
+25.0,1,1,Junior Sales Associate,1.0,30000.0,Marketing & Sales Roles
+30.0,0,1,Junior Sales Associate,1.0,26000.0,Marketing & Sales Roles
+29.0,0,1,Junior Sales Associate,1.0,25000.0,Marketing & Sales Roles
+23.0,1,1,Junior Sales Associate,1.0,26000.0,Marketing & Sales Roles
+27.0,1,1,Junior Sales Associate,2.0,35000.0,Marketing & Sales Roles
+30.0,0,1,Junior Sales Associate,1.0,26000.0,Marketing & Sales Roles
+28.0,1,1,Junior Sales Associate,2.0,35000.0,Marketing & Sales Roles
+28.0,0,1,Junior Sales Associate,1.0,30000.0,Marketing & Sales Roles
+29.0,0,1,Junior Sales Associate,1.0,26000.0,Marketing & Sales Roles
+30.0,0,1,Junior Sales Associate,1.0,26000.0,Marketing & Sales Roles
+28.0,0,1,Junior Sales Associate,1.0,30000.0,Marketing & Sales Roles
+36.0,1,3,Junior Sales Representative,3.0,45000.0,Marketing & Sales Roles
+29.0,0,2,Junior Sales Representative,1.5,40000.0,Marketing & Sales Roles
+21.0,0,1,Junior Sales Representative,0.0,25000.0,Marketing & Sales Roles
+31.0,0,1,Junior Sales Representative,3.0,40000.0,Marketing & Sales Roles
+37.0,1,3,Junior Sales Representative,6.0,75000.0,Marketing & Sales Roles
+21.0,0,1,Junior Sales Representative,0.0,25000.0,Marketing & Sales Roles
+21.0,0,1,Junior Sales Representative,0.0,25000.0,Marketing & Sales Roles
+36.0,0,3,Junior Sales Representative,2.0,35000.0,Marketing & Sales Roles
+25.0,0,3,Junior Software Developer,1.0,35000.0,Engineering Roles
+27.0,0,3,Junior Software Developer,2.0,36000.0,Engineering Roles
+28.0,0,3,Junior Software Developer,2.0,37000.0,Engineering Roles
+28.0,0,3,Junior Software Developer,2.0,36000.0,Engineering Roles
+26.0,0,3,Junior Software Developer,2.0,35000.0,Engineering Roles
+25.0,0,3,Junior Software Developer,1.0,35000.0,Engineering Roles
+28.0,0,3,Junior Software Developer,2.0,36000.0,Engineering Roles
+26.0,0,3,Junior Software Developer,1.0,35000.0,Engineering Roles
+26.0,0,3,Junior Software Developer,1.0,35000.0,Engineering Roles
+25.0,0,3,Junior Software Developer,1.0,35000.0,Engineering Roles
+28.0,0,3,Junior Software Developer,2.0,36000.0,Engineering Roles
+28.0,0,3,Junior Software Developer,2.0,36000.0,Engineering Roles
+25.0,1,3,Junior Software Engineer,1.0,55000.0,Engineering Roles
+27.0,0,3,Junior Software Engineer,2.0,48000.0,Engineering Roles
+28.0,0,3,Junior Software Engineer,2.0,48000.0,Engineering Roles
+26.0,1,3,Junior Software Engineer,1.0,55000.0,Engineering Roles
+27.0,1,3,Junior Software Engineer,1.0,55000.0,Engineering Roles
+25.0,1,3,Junior Software Engineer,1.0,55000.0,Engineering Roles
+26.0,0,3,Junior Software Engineer,1.0,45000.0,Engineering Roles
+27.0,0,3,Junior Software Engineer,1.0,45000.0,Engineering Roles
+27.0,0,3,Junior Software Engineer,2.0,48000.0,Engineering Roles
+27.0,0,3,Junior Software Engineer,2.0,48000.0,Engineering Roles
+25.0,0,3,Junior Web Developer,1.0,40000.0,Engineering Roles
+25.0,1,3,Junior Web Developer,2.0,50000.0,Engineering Roles
+26.0,1,5,Junior Web Developer,2.0,48000.0,Engineering Roles
+26.0,0,3,Junior Web Developer,2.0,45000.0,Engineering Roles
+26.0,0,3,Junior Web Developer,2.0,45000.0,Engineering Roles
+25.0,0,3,Junior Web Developer,1.0,40000.0,Engineering Roles
+28.0,1,1,Junior Web Developer,2.0,43000.0,Engineering Roles
+31.0,1,1,Junior Web Developer,4.0,55000.0,Engineering Roles
+26.0,0,3,Junior Web Developer,2.0,45000.0,Engineering Roles
+24.0,0,3,Marketing Analyst,0.0,40000.0,Marketing & Sales Roles
+28.0,0,3,Marketing Analyst,3.0,65000.0,Marketing & Sales Roles
+28.0,0,3,Marketing Analyst,3.0,60000.0,Marketing & Sales Roles
+28.0,1,3,Marketing Analyst,3.0,65000.0,Marketing & Sales Roles
+27.0,1,3,Marketing Analyst,2.0,50000.0,Marketing & Sales Roles
+26.0,1,3,Marketing Analyst,2.0,50000.0,Marketing & Sales Roles
+26.0,1,3,Marketing Analyst,2.0,50000.0,Marketing & Sales Roles
+29.0,1,3,Marketing Analyst,4.0,70000.0,Marketing & Sales Roles
+28.0,0,3,Marketing Analyst,3.0,60000.0,Marketing & Sales Roles
+29.0,1,3,Marketing Analyst,4.0,70000.0,Marketing & Sales Roles
+26.0,1,3,Marketing Analyst,2.0,50000.0,Marketing & Sales Roles
+29.0,1,3,Marketing Analyst,4.0,70000.0,Marketing & Sales Roles
+26.0,1,3,Marketing Analyst,2.0,50000.0,Marketing & Sales Roles
+28.0,0,3,Marketing Analyst,3.0,60000.0,Marketing & Sales Roles
+27.0,1,3,Marketing Analyst,2.0,50000.0,Marketing & Sales Roles
+24.0,0,3,Marketing Analyst,0.0,40000.0,Marketing & Sales Roles
+28.0,0,3,Marketing Analyst,3.0,65000.0,Marketing & Sales Roles
+28.0,0,3,Marketing Analyst,3.0,60000.0,Marketing & Sales Roles
+28.0,0,3,Marketing Analyst,3.0,60000.0,Marketing & Sales Roles
+26.0,1,3,Marketing Analyst,2.0,50000.0,Marketing & Sales Roles
+28.0,0,3,Marketing Analyst,3.0,65000.0,Marketing & Sales Roles
+29.0,1,3,Marketing Analyst,4.0,70000.0,Marketing & Sales Roles
+26.0,1,3,Marketing Analyst,2.0,50000.0,Marketing & Sales Roles
+28.0,0,3,Marketing Analyst,3.0,60000.0,Marketing & Sales Roles
+28.0,0,3,Marketing Analyst,3.0,65000.0,Marketing & Sales Roles
+29.0,1,3,Marketing Analyst,4.0,70000.0,Marketing & Sales Roles
+26.0,0,3,Marketing Coordinator,2.0,40000.0,Marketing & Sales Roles
+30.0,0,3,Marketing Coordinator,4.0,57000.0,Marketing & Sales Roles
+29.0,0,3,Marketing Coordinator,4.0,65000.0,Marketing & Sales Roles
+30.0,0,3,Marketing Coordinator,4.0,58000.0,Marketing & Sales Roles
+35.0,0,5,Marketing Coordinator,8.0,85000.0,Marketing & Sales Roles
+30.0,0,3,Marketing Coordinator,5.0,95000.0,Marketing & Sales Roles
+29.0,0,3,Marketing Coordinator,3.0,55000.0,Marketing & Sales Roles
+30.0,0,3,Marketing Coordinator,4.0,57000.0,Marketing & Sales Roles
+29.0,0,3,Marketing Coordinator,4.0,65000.0,Marketing & Sales Roles
+29.0,0,3,Marketing Coordinator,4.0,65000.0,Marketing & Sales Roles
+30.0,0,3,Marketing Coordinator,4.0,65000.0,Marketing & Sales Roles
+26.0,0,2,Marketing Coordinator,1.0,45000.0,Marketing & Sales Roles
+31.0,0,3,Marketing Coordinator,4.0,65000.0,Marketing & Sales Roles
+30.0,0,3,Marketing Coordinator,5.0,90000.0,Marketing & Sales Roles
+31.0,0,3,Marketing Coordinator,4.0,65000.0,Marketing & Sales Roles
+35.0,0,5,Marketing Coordinator,8.0,85000.0,Marketing & Sales Roles
+30.0,0,3,Marketing Coordinator,4.0,65000.0,Marketing & Sales Roles
+41.0,0,5,Marketing Coordinator,13.0,131000.0,Marketing & Sales Roles
+30.0,0,3,Marketing Coordinator,5.0,85000.0,Marketing & Sales Roles
+28.0,0,3,Marketing Coordinator,2.0,41000.0,Marketing & Sales Roles
+29.0,0,3,Marketing Coordinator,3.0,55000.0,Marketing & Sales Roles
+30.0,0,3,Marketing Coordinator,4.0,57000.0,Marketing & Sales Roles
+28.0,0,3,Marketing Coordinator,3.0,60000.0,Marketing & Sales Roles
+36.0,0,5,Marketing Coordinator,8.0,85000.0,Marketing & Sales Roles
+30.0,0,3,Marketing Coordinator,4.0,57000.0,Marketing & Sales Roles
+29.0,0,3,Marketing Coordinator,4.0,65000.0,Marketing & Sales Roles
+27.0,1,7,Marketing Coordinator,7.0,120000.0,Marketing & Sales Roles
+36.0,0,5,Marketing Coordinator,9.0,100000.0,Marketing & Sales Roles
+39.0,0,5,Marketing Coordinator,11.0,120000.0,Marketing & Sales Roles
+28.0,0,3,Marketing Coordinator,2.0,41000.0,Marketing & Sales Roles
+31.0,0,3,Marketing Coordinator,4.0,65000.0,Marketing & Sales Roles
+38.0,1,5,Marketing Director,14.0,195000.0,Marketing & Sales Roles
+38.0,1,5,Marketing Director,14.0,195000.0,Marketing & Sales Roles
+38.0,0,5,Marketing Director,14.0,170000.0,Marketing & Sales Roles
+37.0,1,5,Marketing Director,14.0,180000.0,Marketing & Sales Roles
+38.0,1,5,Marketing Director,14.0,195000.0,Marketing & Sales Roles
+38.0,1,5,Marketing Director,14.0,195000.0,Marketing & Sales Roles
+37.0,1,5,Marketing Director,14.0,190000.0,Marketing & Sales Roles
+38.0,0,5,Marketing Director,14.0,170000.0,Marketing & Sales Roles
+37.0,1,5,Marketing Director,14.0,190000.0,Marketing & Sales Roles
+37.0,1,5,Marketing Director,14.0,190000.0,Marketing & Sales Roles
+37.0,1,5,Marketing Director,14.0,190000.0,Marketing & Sales Roles
+37.0,1,5,Marketing Director,14.0,190000.0,Marketing & Sales Roles
+38.0,0,5,Marketing Director,14.0,170000.0,Marketing & Sales Roles
+25.0,0,3,Marketing Manager,3.0,65000.0,Management Roles
+27.0,1,6,Marketing Manager,4.0,55000.0,Management Roles
+33.0,0,5,Marketing Manager,9.0,130000.0,Management Roles
+36.0,0,5,Marketing Manager,11.0,117000.0,Management Roles
+45.0,1,5,Marketing Manager,13.0,130000.0,Management Roles
+33.0,0,5,Marketing Manager,9.0,130000.0,Management Roles
+33.0,0,5,Marketing Manager,9.0,130000.0,Management Roles
+32.0,0,5,Marketing Manager,6.0,77000.0,Management Roles
+36.0,0,5,Marketing Manager,11.0,117000.0,Management Roles
+33.0,0,5,Marketing Manager,9.0,130000.0,Management Roles
+37.0,1,5,Marketing Manager,11.0,110000.0,Management Roles
+34.0,1,3,Marketing Manager,9.0,130000.0,Management Roles
+33.0,0,5,Marketing Manager,9.0,135000.0,Management Roles
+27.0,1,6,Marketing Manager,4.0,55000.0,Management Roles
+45.0,1,5,Marketing Manager,20.0,204000.0,Management Roles
+33.0,0,5,Marketing Manager,9.0,130000.0,Management Roles
+28.0,0,5,Marketing Manager,7.0,110000.0,Management Roles
+38.0,0,5,Marketing Manager,10.0,110000.0,Management Roles
+28.0,1,6,Marketing Manager,4.0,55000.0,Management Roles
+36.0,0,6,Marketing Manager,9.0,95000.0,Management Roles
+38.0,0,5,Marketing Manager,14.0,170000.0,Management Roles
+33.0,0,5,Marketing Manager,9.0,135000.0,Management Roles
+25.0,0,3,Marketing Manager,3.0,65000.0,Management Roles
+28.0,1,6,Marketing Manager,4.0,55000.0,Management Roles
+39.0,0,5,Marketing Manager,12.0,150000.0,Management Roles
+39.0,0,5,Marketing Manager,10.0,110000.0,Management Roles
+31.0,0,3,Marketing Manager,7.0,100000.0,Management Roles
+45.0,1,5,Marketing Manager,20.0,204000.0,Management Roles
+28.0,0,5,Marketing Manager,7.0,110000.0,Management Roles
+33.0,0,5,Marketing Manager,9.0,135000.0,Management Roles
+33.0,0,5,Marketing Manager,9.0,130000.0,Management Roles
+36.0,0,5,Marketing Manager,11.0,117000.0,Management Roles
+38.0,0,5,Marketing Manager,10.0,110000.0,Management Roles
+32.0,0,5,Marketing Manager,6.0,77000.0,Management Roles
+27.0,1,6,Marketing Manager,4.0,55000.0,Management Roles
+28.0,0,5,Marketing Manager,7.0,110000.0,Management Roles
+45.0,1,5,Marketing Manager,20.0,204000.0,Management Roles
+33.0,0,4,Marketing Manager,7.0,90000.0,Management Roles
+28.0,1,6,Marketing Manager,4.0,55000.0,Management Roles
+33.0,0,5,Marketing Manager,9.0,135000.0,Management Roles
+33.0,1,5,Marketing Manager,9.0,130000.0,Management Roles
+36.0,0,6,Marketing Manager,9.0,95000.0,Management Roles
+38.0,0,5,Marketing Manager,9.0,100000.0,Management Roles
+28.0,0,5,Marketing Manager,7.0,110000.0,Management Roles
+33.0,0,5,Marketing Manager,9.0,130000.0,Management Roles
+34.0,1,3,Marketing Manager,9.0,130000.0,Management Roles
+33.0,0,5,Marketing Manager,9.0,130000.0,Management Roles
+37.0,0,5,Marketing Manager,12.0,125000.0,Management Roles
+43.0,0,3,Marketing Manager,12.0,120000.0,Management Roles
+32.0,0,3,Marketing Manager,7.0,120000.0,Management Roles
+36.0,0,3,Operations Manager,7.0,91000.0,Management Roles
+31.0,1,3,Operations Manager,5.0,70000.0,Management Roles
+38.0,1,3,Operations Manager,11.0,119000.0,Management Roles
+30.0,1,3,Operations Manager,5.0,70000.0,Management Roles
+33.0,1,3,Operations Manager,7.0,96000.0,Management Roles
+33.0,1,3,Operations Manager,6.0,75000.0,Management Roles
+34.0,1,3,Operations Manager,8.0,104000.0,Management Roles
+32.0,1,3,Operations Manager,6.0,90000.0,Management Roles
+34.0,1,3,Operations Manager,8.0,101000.0,Management Roles
+32.0,1,3,Operations Manager,6.0,75000.0,Management Roles
+37.0,1,3,Operations Manager,10.0,113000.0,Management Roles
+37.0,1,3,Operations Manager,10.0,113000.0,Management Roles
+33.0,1,3,Operations Manager,7.0,96000.0,Management Roles
+34.0,1,3,Operations Manager,8.0,101000.0,Management Roles
+33.0,1,3,Operations Manager,6.0,75000.0,Management Roles
+34.0,1,3,Operations Manager,8.0,104000.0,Management Roles
+32.0,1,3,Operations Manager,6.0,90000.0,Management Roles
+33.0,1,3,Operations Manager,7.0,85000.0,Management Roles
+36.0,1,3,Operations Manager,9.0,110000.0,Management Roles
+31.0,1,3,Operations Manager,6.0,75000.0,Management Roles
+36.0,1,3,Operations Manager,9.0,110000.0,Management Roles
+50.0,0,2,Operations Manager,22.0,160000.0,Management Roles
+26.0,1,3,Product Designer,2.0,55000.0,Creative Roles
+26.0,1,3,Product Designer,2.0,50000.0,Creative Roles
+29.0,1,3,Product Designer,3.0,60000.0,Creative Roles
+27.0,1,3,Product Designer,3.0,60000.0,Creative Roles
+26.0,1,3,Product Designer,2.0,50000.0,Creative Roles
+27.0,1,3,Product Designer,3.0,60000.0,Creative Roles
+26.0,1,3,Product Designer,2.0,55000.0,Creative Roles
+26.0,1,3,Product Designer,1.0,50000.0,Creative Roles
+27.0,1,3,Product Designer,2.0,55000.0,Creative Roles
+28.0,1,3,Product Designer,3.0,60000.0,Creative Roles
+26.0,1,3,Product Designer,2.0,50000.0,Creative Roles
+27.0,1,3,Product Designer,2.0,55000.0,Creative Roles
+27.0,1,3,Product Designer,3.0,60000.0,Creative Roles
+26.0,1,3,Product Designer,2.0,55000.0,Creative Roles
+29.0,1,3,Product Designer,3.0,60000.0,Creative Roles
+33.0,0,4,Product Manager,11.0,195000.0,Management Roles
+30.0,0,2,Product Manager,5.0,160000.0,Management Roles
+25.0,1,3,Product Manager,1.0,60000.0,Management Roles
+37.0,1,3,Product Manager,12.0,150000.0,Management Roles
+26.0,0,4,Product Manager,2.0,120000.0,Management Roles
+32.0,1,2,Product Manager,7.0,170000.0,Management Roles
+29.0,0,3,Product Manager,5.0,80000.0,Management Roles
+32.0,1,2,Product Manager,7.0,170000.0,Management Roles
+25.0,1,3,Product Manager,1.0,60000.0,Management Roles
+25.0,1,3,Product Manager,1.0,60000.0,Management Roles
+32.0,1,3,Product Manager,7.0,120000.0,Management Roles
+35.0,0,3,Product Manager,8.0,165000.0,Management Roles
+34.0,0,4,Product Manager,12.0,196000.0,Management Roles
+42.0,1,5,Product Manager,14.0,180000.0,Management Roles
+32.0,1,5,Product Manager,7.0,110000.0,Management Roles
+37.0,1,6,Product Manager,14.0,195000.0,Management Roles
+32.0,1,3,Product Manager,7.0,120000.0,Management Roles
+25.0,1,3,Product Manager,1.0,55000.0,Management Roles
+32.0,1,5,Product Manager,7.0,110000.0,Management Roles
+34.0,1,4,Product Manager,12.0,196000.0,Management Roles
+32.0,1,3,Product Manager,7.0,120000.0,Management Roles
+25.0,1,3,Product Manager,1.0,60000.0,Management Roles
+32.0,1,3,Product Manager,7.0,120000.0,Management Roles
+33.0,0,4,Product Manager,11.0,198000.0,Management Roles
+37.0,1,3,Product Manager,13.0,160000.0,Management Roles
+32.0,1,5,Product Manager,7.0,110000.0,Management Roles
+30.0,0,2,Product Manager,5.0,160000.0,Management Roles
+32.0,1,3,Product Manager,7.0,120000.0,Management Roles
+37.0,1,6,Product Manager,14.0,195000.0,Management Roles
+25.0,1,3,Product Manager,1.0,60000.0,Management Roles
+25.0,1,3,Product Manager,1.0,55000.0,Management Roles
+27.0,0,2,Product Manager,4.0,150000.0,Management Roles
+25.0,1,3,Product Manager,1.0,60000.0,Management Roles
+35.0,0,2,Product Manager,12.0,190000.0,Management Roles
+32.0,0,3,Product Manager,7.0,120000.0,Management Roles
+32.0,0,5,Product Manager,5.0,100000.0,Management Roles
+33.0,0,4,Product Manager,11.0,198000.0,Management Roles
+33.0,1,4,Product Manager,11.0,198000.0,Management Roles
+33.0,0,4,Product Manager,11.0,198000.0,Management Roles
+25.0,1,3,Product Manager,1.0,60000.0,Management Roles
+33.0,0,4,Product Manager,11.0,196000.0,Management Roles
+33.0,0,4,Product Manager,11.0,195000.0,Management Roles
+32.0,1,3,Product Manager,7.0,120000.0,Management Roles
+25.0,1,3,Product Manager,1.0,55000.0,Management Roles
+42.0,1,5,Product Manager,14.0,180000.0,Management Roles
+32.0,1,3,Product Manager,7.0,120000.0,Management Roles
+34.0,1,2,Product Manager,9.0,185000.0,Management Roles
+33.0,0,4,Product Manager,11.0,198000.0,Management Roles
+32.0,1,5,Product Manager,7.0,110000.0,Management Roles
+25.0,1,3,Product Manager,1.0,60000.0,Management Roles
+33.0,0,4,Product Manager,10.0,195000.0,Management Roles
+32.0,1,5,Product Manager,7.0,110000.0,Management Roles
+32.0,1,5,Product Manager,7.0,110000.0,Management Roles
+25.0,1,3,Product Manager,1.0,60000.0,Management Roles
+27.0,0,2,Product Manager,4.0,150000.0,Management Roles
+34.0,0,4,Product Manager,12.0,196000.0,Management Roles
+27.0,0,2,Product Manager,4.0,150000.0,Management Roles
+32.0,1,3,Product Manager,7.0,120000.0,Management Roles
+32.0,1,3,Product Manager,7.0,120000.0,Management Roles
+33.0,0,4,Product Manager,11.0,198000.0,Management Roles
+28.0,1,4,Product Manager,3.0,130000.0,Management Roles
+31.0,1,3,Project Manager,6.0,100000.0,Management Roles
+32.0,1,3,Project Manager,8.0,120000.0,Management Roles
+33.0,1,3,Project Manager,8.0,120000.0,Management Roles
+35.0,1,3,Project Manager,10.0,130000.0,Management Roles
+32.0,1,3,Project Manager,8.0,120000.0,Management Roles
+24.0,0,1,Receptionist,0.0,25000.0,HR & Operations Roles
+24.0,0,1,Receptionist,0.0,25000.0,HR & Operations Roles
+24.0,0,1,Receptionist,0.0,25000.0,HR & Operations Roles
+24.0,0,1,Receptionist,0.0,25000.0,HR & Operations Roles
+24.0,0,1,Receptionist,0.0,25000.0,HR & Operations Roles
+24.0,0,1,Receptionist,0.0,25000.0,HR & Operations Roles
+24.0,0,1,Receptionist,0.0,25000.0,HR & Operations Roles
+24.0,0,1,Receptionist,0.0,25000.0,HR & Operations Roles
+24.0,0,1,Receptionist,0.0,25000.0,HR & Operations Roles
+24.0,0,1,Receptionist,0.0,25000.0,HR & Operations Roles
+24.0,0,1,Receptionist,0.0,25000.0,HR & Operations Roles
+24.0,0,1,Receptionist,0.0,25000.0,HR & Operations Roles
+34.0,1,6,Research Director,11.0,160000.0,Management Roles
+34.0,1,6,Research Director,11.0,160000.0,Management Roles
+34.0,1,6,Research Director,11.0,170000.0,Management Roles
+34.0,1,6,Research Director,11.0,160000.0,Management Roles
+34.0,0,6,Research Director,11.0,160000.0,Management Roles
+34.0,1,6,Research Director,11.0,160000.0,Management Roles
+34.0,1,6,Research Director,11.0,170000.0,Management Roles
+34.0,1,6,Research Director,11.0,160000.0,Management Roles
+34.0,1,6,Research Director,11.0,170000.0,Management Roles
+35.0,0,6,Research Director,11.0,160000.0,Management Roles
+35.0,0,6,Research Director,11.0,160000.0,Management Roles
+34.0,0,6,Research Director,12.0,170000.0,Management Roles
+35.0,0,6,Research Director,12.0,175000.0,Management Roles
+34.0,0,6,Research Director,10.0,150000.0,Management Roles
+34.0,1,6,Research Director,12.0,170000.0,Management Roles
+36.0,0,6,Research Scientist,13.0,185000.0,Data & Analytics Roles
+36.0,0,6,Research Scientist,12.0,170000.0,Data & Analytics Roles
+36.0,0,6,Research Scientist,13.0,185000.0,Data & Analytics Roles
+36.0,0,6,Research Scientist,12.0,170000.0,Data & Analytics Roles
+36.0,0,6,Research Scientist,13.0,185000.0,Data & Analytics Roles
+36.0,0,6,Research Scientist,12.0,170000.0,Data & Analytics Roles
+39.0,1,6,Research Scientist,14.0,185000.0,Data & Analytics Roles
+36.0,0,6,Research Scientist,13.0,185000.0,Data & Analytics Roles
+35.0,1,6,Research Scientist,11.0,150000.0,Data & Analytics Roles
+32.0,1,6,Research Scientist,10.0,150000.0,Data & Analytics Roles
+36.0,1,6,Research Scientist,11.0,155000.0,Data & Analytics Roles
+32.0,1,6,Research Scientist,10.0,150000.0,Data & Analytics Roles
+36.0,0,6,Research Scientist,12.0,160000.0,Data & Analytics Roles
+36.0,0,6,Research Scientist,12.0,170000.0,Data & Analytics Roles
+31.0,1,1,Sales Associate,3.0,50000.0,Marketing & Sales Roles
+25.0,0,1,Sales Associate,1.0,35000.0,Marketing & Sales Roles
+24.0,0,1,Sales Associate,0.0,25000.0,Marketing & Sales Roles
+24.0,0,1,Sales Associate,1.0,30000.0,Marketing & Sales Roles
+26.0,0,1,Sales Associate,1.0,35000.0,Marketing & Sales Roles
+24.0,0,1,Sales Associate,1.0,30000.0,Marketing & Sales Roles
+26.0,0,1,Sales Associate,1.0,35000.0,Marketing & Sales Roles
+31.0,1,1,Sales Associate,3.0,50000.0,Marketing & Sales Roles
+24.0,0,1,Sales Associate,1.0,30000.0,Marketing & Sales Roles
+25.0,0,1,Sales Associate,1.0,35000.0,Marketing & Sales Roles
+32.0,1,1,Sales Associate,3.0,50000.0,Marketing & Sales Roles
+31.0,1,1,Sales Associate,3.0,50000.0,Marketing & Sales Roles
+24.0,0,1,Sales Associate,0.0,25000.0,Marketing & Sales Roles
+25.0,0,1,Sales Associate,0.0,25000.0,Marketing & Sales Roles
+31.0,1,3,Sales Director,9.0,140000.0,Marketing & Sales Roles
+40.0,1,6,Sales Director,14.0,140000.0,Marketing & Sales Roles
+31.0,1,3,Sales Director,9.0,140000.0,Marketing & Sales Roles
+31.0,1,3,Sales Director,9.0,140000.0,Marketing & Sales Roles
+29.0,0,3,Sales Director,6.0,75000.0,Marketing & Sales Roles
+33.0,1,6,Sales Director,10.0,155000.0,Marketing & Sales Roles
+31.0,1,3,Sales Director,9.0,140000.0,Marketing & Sales Roles
+33.0,1,6,Sales Director,10.0,155000.0,Marketing & Sales Roles
+31.0,1,3,Sales Director,9.0,140000.0,Marketing & Sales Roles
+31.0,1,3,Sales Director,9.0,140000.0,Marketing & Sales Roles
+36.0,1,3,Sales Director,6.0,75000.0,Marketing & Sales Roles
+31.0,1,3,Sales Director,9.0,140000.0,Marketing & Sales Roles
+25.0,0,1,Sales Executive,1.0,35000.0,Marketing & Sales Roles
+24.0,1,3,Sales Executive,1.0,35000.0,Marketing & Sales Roles
+27.0,1,1,Sales Executive,2.0,40000.0,Marketing & Sales Roles
+25.0,0,1,Sales Executive,1.0,35000.0,Marketing & Sales Roles
+25.0,0,1,Sales Executive,1.0,35000.0,Marketing & Sales Roles
+25.0,0,1,Sales Executive,1.0,35000.0,Marketing & Sales Roles
+34.0,0,1,Sales Executive,5.0,70000.0,Marketing & Sales Roles
+23.0,0,3,Sales Executive,1.0,35000.0,Marketing & Sales Roles
+50.0,0,3,Sales Manager,18.0,180000.0,Management Roles
+36.0,1,3,Sales Manager,11.0,160000.0,Management Roles
+26.0,1,1,Sales Manager,2.0,40000.0,Management Roles
+36.0,1,3,Sales Manager,11.0,160000.0,Management Roles
+36.0,1,3,Sales Manager,11.0,160000.0,Management Roles
+27.0,1,1,Sales Manager,2.0,40000.0,Management Roles
+36.0,1,3,Sales Manager,11.0,160000.0,Management Roles
+36.0,1,3,Sales Manager,6.0,75000.0,Management Roles
+30.0,1,3,Sales Manager,6.0,75000.0,Management Roles
+26.0,1,1,Sales Manager,2.0,40000.0,Management Roles
+36.0,1,3,Sales Manager,11.0,160000.0,Management Roles
+23.0,1,3,Sales Representative,1.0,35000.0,Marketing & Sales Roles
+23.0,1,3,Sales Representative,1.0,35000.0,Marketing & Sales Roles
+26.0,1,5,Sales Representative,3.0,45000.0,Marketing & Sales Roles
+28.0,0,3,Sales Representative,2.0,40000.0,Marketing & Sales Roles
+29.0,0,5,Sales Representative,4.0,55000.0,Marketing & Sales Roles
+26.0,0,3,Sales Representative,2.0,40000.0,Marketing & Sales Roles
+23.0,1,3,Sales Representative,1.0,35000.0,Marketing & Sales Roles
+23.0,1,3,Sales Representative,1.0,35000.0,Marketing & Sales Roles
+33.0,1,5,Senior Data Scientist,8.0,120000.0,Data & Analytics Roles
+36.0,1,6,Senior Data Scientist,12.0,170000.0,Data & Analytics Roles
+34.0,1,5,Senior Data Scientist,9.0,125000.0,Data & Analytics Roles
+34.0,1,5,Senior Data Scientist,9.0,125000.0,Data & Analytics Roles
+44.0,1,6,Senior Data Scientist,15.0,180000.0,Data & Analytics Roles
+34.0,1,5,Senior Data Scientist,9.0,125000.0,Data & Analytics Roles
+36.0,1,6,Senior Data Scientist,12.0,170000.0,Data & Analytics Roles
+36.0,1,6,Senior Data Scientist,12.0,170000.0,Data & Analytics Roles
+36.0,1,6,Senior Data Scientist,12.0,170000.0,Data & Analytics Roles
+46.0,1,6,Senior Data Scientist,18.0,160000.0,Data & Analytics Roles
+33.0,1,5,Senior Data Scientist,8.0,120000.0,Data & Analytics Roles
+34.0,1,5,Senior Data Scientist,9.0,125000.0,Data & Analytics Roles
+26.0,0,5,Senior HR Generalist,2.0,55000.0,HR & Operations Roles
+38.0,1,3,Senior HR Generalist,8.0,95000.0,HR & Operations Roles
+29.0,0,5,Senior HR Generalist,4.0,70000.0,HR & Operations Roles
+39.0,1,5,Senior HR Generalist,10.0,105000.0,HR & Operations Roles
+39.0,1,5,Senior HR Generalist,9.0,95000.0,HR & Operations Roles
+39.0,1,5,Senior HR Generalist,10.0,105000.0,HR & Operations Roles
+35.0,0,5,Senior HR Generalist,8.0,80000.0,HR & Operations Roles
+39.0,1,5,Senior HR Generalist,11.0,100000.0,HR & Operations Roles
+35.0,0,5,Senior HR Generalist,8.0,80000.0,HR & Operations Roles
+32.0,0,5,Senior Human Resources Manager,6.0,80000.0,Management Roles
+43.0,0,6,Senior Human Resources Manager,15.0,150000.0,Management Roles
+29.0,1,5,Senior Human Resources Manager,4.0,70000.0,Management Roles
+38.0,1,6,Senior Human Resources Manager,11.0,115000.0,Management Roles
+31.0,1,6,Senior Human Resources Manager,7.0,90000.0,Management Roles
+43.0,0,6,Senior Human Resources Manager,15.0,150000.0,Management Roles
+35.0,1,6,Senior Human Resources Manager,10.0,110000.0,Management Roles
+35.0,1,6,Senior Human Resources Manager,10.0,110000.0,Management Roles
+32.0,0,5,Senior Human Resources Manager,6.0,80000.0,Management Roles
+42.0,0,5,Senior Human Resources Manager,13.0,125000.0,Management Roles
+35.0,0,6,Senior Product Marketing Manager,9.0,95000.0,Management Roles
+26.0,1,3,Senior Product Marketing Manager,5.0,85000.0,Management Roles
+48.0,0,6,Senior Product Marketing Manager,17.0,170000.0,Management Roles
+35.0,0,6,Senior Product Marketing Manager,9.0,95000.0,Management Roles
+51.0,0,5,Senior Product Marketing Manager,19.0,190000.0,Management Roles
+48.0,0,6,Senior Product Marketing Manager,17.0,170000.0,Management Roles
+26.0,1,3,Senior Product Marketing Manager,5.0,85000.0,Management Roles
+35.0,0,6,Senior Product Marketing Manager,9.0,95000.0,Management Roles
+35.0,0,6,Senior Product Marketing Manager,9.0,95000.0,Management Roles
+26.0,1,3,Senior Product Marketing Manager,5.0,85000.0,Management Roles
+51.0,0,5,Senior Product Marketing Manager,19.0,190000.0,Management Roles
+26.0,1,3,Senior Product Marketing Manager,5.0,85000.0,Management Roles
+46.0,0,6,Senior Product Marketing Manager,16.0,160000.0,Management Roles
+51.0,0,5,Senior Product Marketing Manager,19.0,190000.0,Management Roles
+29.0,1,3,Senior Project Engineer,6.0,88552.0,Management Roles
+43.0,1,6,Senior Project Engineer,13.0,185000.0,Management Roles
+43.0,1,3,Senior Project Engineer,20.0,142421.0,Management Roles
+45.0,0,3,Senior Project Engineer,22.0,171468.0,Management Roles
+30.0,1,1,Senior Project Engineer,11.0,103947.0,Management Roles
+49.0,1,6,Senior Project Engineer,17.0,195000.0,Management Roles
+41.0,0,5,Senior Project Engineer,11.0,165000.0,Management Roles
+43.0,0,6,Senior Project Engineer,14.0,190000.0,Management Roles
+49.0,1,6,Senior Project Engineer,17.0,195000.0,Management Roles
+44.0,1,5,Senior Project Engineer,11.0,170000.0,Management Roles
+23.0,0,3,Senior Project Engineer,0.0,52831.0,Management Roles
+43.0,1,6,Senior Project Engineer,12.0,165000.0,Management Roles
+32.0,1,5,Senior Project Engineer,8.0,122354.0,Management Roles
+37.0,0,3,Senior Project Engineer,13.0,137336.0,Management Roles
+46.0,1,6,Senior Project Engineer,16.0,190000.0,Management Roles
+50.0,1,6,Senior Project Engineer,19.0,200000.0,Management Roles
+43.0,1,6,Senior Project Engineer,13.0,185000.0,Management Roles
+45.0,1,6,Senior Project Engineer,16.0,185000.0,Management Roles
+49.0,0,1,Senior Project Engineer,25.0,154207.0,Management Roles
+45.0,1,6,Senior Project Engineer,16.0,185000.0,Management Roles
+49.0,0,6,Senior Project Engineer,17.0,195000.0,Management Roles
+48.0,0,3,Senior Project Engineer,22.0,168691.0,Management Roles
+48.0,1,6,Senior Project Engineer,16.0,190000.0,Management Roles
+30.0,0,5,Senior Project Engineer,5.0,100867.0,Management Roles
+43.0,0,6,Senior Project Engineer,14.0,190000.0,Management Roles
+35.0,0,3,Senior Project Engineer,12.0,166375.0,Management Roles
+43.0,0,6,Senior Project Engineer,14.0,190000.0,Management Roles
+50.0,1,6,Senior Project Engineer,19.0,200000.0,Management Roles
+43.0,0,6,Senior Project Engineer,14.0,190000.0,Management Roles
+43.0,1,6,Senior Project Engineer,13.0,185000.0,Management Roles
+50.0,1,6,Senior Project Engineer,19.0,200000.0,Management Roles
+33.0,0,5,Senior Project Engineer,9.0,126753.0,Management Roles
+43.0,0,6,Senior Project Engineer,13.0,180000.0,Management Roles
+46.0,1,6,Senior Project Engineer,15.0,180000.0,Management Roles
+44.0,1,5,Senior Project Engineer,11.0,170000.0,Management Roles
+28.0,0,3,Senior Project Engineer,3.0,70397.0,Management Roles
+44.0,0,5,Senior Project Engineer,12.0,170000.0,Management Roles
+43.0,1,6,Senior Project Engineer,13.0,185000.0,Management Roles
+49.0,1,6,Senior Project Engineer,17.0,195000.0,Management Roles
+43.0,1,3,Senior Project Engineer,20.0,162231.0,Management Roles
+49.0,0,6,Senior Project Engineer,17.0,195000.0,Management Roles
+31.0,1,5,Senior Project Engineer,6.0,125000.0,Management Roles
+54.0,1,3,Senior Project Engineer,28.0,192292.0,Management Roles
+45.0,1,6,Senior Project Engineer,16.0,185000.0,Management Roles
+31.0,1,5,Senior Project Engineer,7.0,135000.0,Management Roles
+48.0,1,6,Senior Project Engineer,16.0,190000.0,Management Roles
+31.0,1,5,Senior Project Engineer,7.0,135000.0,Management Roles
+49.0,1,6,Senior Project Engineer,17.0,195000.0,Management Roles
+55.0,0,3,Senior Project Engineer,30.0,183020.0,Management Roles
+43.0,1,6,Senior Project Engineer,13.0,185000.0,Management Roles
+43.0,0,6,Senior Project Engineer,14.0,190000.0,Management Roles
+33.0,0,5,Senior Project Engineer,9.0,126753.0,Management Roles
+48.0,1,6,Senior Project Engineer,16.0,190000.0,Management Roles
+42.0,0,5,Senior Project Engineer,11.0,170000.0,Management Roles
+49.0,0,6,Senior Project Engineer,17.0,195000.0,Management Roles
+50.0,1,6,Senior Project Engineer,19.0,200000.0,Management Roles
+41.0,0,3,Senior Project Engineer,20.0,151315.0,Management Roles
+41.0,1,6,Senior Project Engineer,13.0,185000.0,Management Roles
+52.0,1,5,Senior Project Engineer,28.0,187120.0,Management Roles
+49.0,0,6,Senior Project Engineer,19.0,210000.0,Management Roles
+44.0,1,5,Senior Project Engineer,11.0,170000.0,Management Roles
+43.0,1,6,Senior Project Engineer,13.0,185000.0,Management Roles
+46.0,1,6,Senior Project Engineer,15.0,180000.0,Management Roles
+39.0,0,6,Senior Research Scientist,13.0,145000.0,
+35.0,1,6,Senior Research Scientist,10.0,130000.0,
+38.0,0,6,Senior Research Scientist,12.0,140000.0,
+38.0,0,6,Senior Research Scientist,12.0,140000.0,
+35.0,1,6,Senior Research Scientist,10.0,130000.0,
+35.0,1,6,Senior Research Scientist,10.0,130000.0,
+35.0,1,6,Senior Research Scientist,10.0,130000.0,
+35.0,1,6,Senior Research Scientist,10.0,130000.0,
+39.0,0,6,Senior Research Scientist,13.0,145000.0,
+38.0,0,6,Senior Research Scientist,12.0,140000.0,
+42.0,0,5,Senior Software Engineer,16.0,138286.0,Engineering Roles
+39.0,0,5,Senior Software Engineer,15.0,134641.0,Engineering Roles
+45.0,0,5,Senior Software Engineer,23.0,174336.0,Engineering Roles
+42.0,1,6,Senior Software Engineer,14.0,170000.0,Engineering Roles
+43.0,1,5,Senior Software Engineer,21.0,187081.0,Engineering Roles
+45.0,1,5,Senior Software Engineer,21.0,180367.0,Engineering Roles
+40.0,0,5,Senior Software Engineer,16.0,138032.0,Engineering Roles
+43.0,1,5,Senior Software Engineer,21.0,185119.0,Engineering Roles
+40.0,1,6,Senior Software Engineer,12.0,160000.0,Engineering Roles
+52.0,1,5,Senior Software Engineer,26.0,184816.0,Engineering Roles
+31.0,0,3,Senior Software Engineer,7.0,108267.0,Engineering Roles
+32.0,0,5,Senior Software Engineer,7.0,100000.0,Engineering Roles
+31.0,1,5,Senior Software Engineer,7.0,140000.0,Engineering Roles
+37.0,1,5,Senior Software Engineer,9.0,150000.0,Engineering Roles
+58.0,1,5,Senior Software Engineer,27.0,190004.0,Engineering Roles
+31.0,1,5,Senior Software Engineer,7.0,140000.0,Engineering Roles
+46.0,1,5,Senior Software Engineer,20.0,174938.0,Engineering Roles
+31.0,0,3,Senior Software Engineer,6.0,104378.0,Engineering Roles
+39.0,0,5,Senior Software Engineer,11.0,160000.0,Engineering Roles
+43.0,1,5,Senior Software Engineer,19.0,185000.0,Engineering Roles
+47.0,1,6,Senior Software Engineer,15.0,180000.0,Engineering Roles
+35.0,0,5,Senior Software Engineer,11.0,134979.0,Engineering Roles
+48.0,0,5,Senior Software Engineer,23.0,185038.0,Engineering Roles
+52.0,1,5,Senior Software Engineer,27.0,186794.0,Engineering Roles
+40.0,1,6,Senior Software Engineer,12.0,160000.0,Engineering Roles
+43.0,1,5,Senior Software Engineer,19.0,185000.0,Engineering Roles
+46.0,0,3,Senior Software Engineer,20.0,139398.0,Engineering Roles
+36.0,1,5,Senior Software Engineer,7.0,140000.0,Engineering Roles
+32.0,0,5,Senior Software Engineer,7.0,100000.0,Engineering Roles
+38.0,1,5,Senior Software Engineer,10.0,155000.0,Engineering Roles
+45.0,1,5,Senior Software Engineer,21.0,180367.0,Engineering Roles
+40.0,0,6,Senior Software Engineer,12.0,160000.0,Engineering Roles
+37.0,1,5,Senior Software Engineer,9.0,145000.0,Engineering Roles
+40.0,0,5,Senior Software Engineer,16.0,138032.0,Engineering Roles
+31.0,0,5,Senior Software Engineer,6.0,114290.0,Engineering Roles
+32.0,0,5,Senior Software Engineer,7.0,100000.0,Engineering Roles
+44.0,0,5,Senior Software Engineer,11.0,170000.0,Engineering Roles
+48.0,0,5,Senior Software Engineer,24.0,184480.0,Engineering Roles
+42.0,0,5,Senior Software Engineer,16.0,138286.0,Engineering Roles
+44.0,1,5,Senior Software Engineer,18.0,152168.0,Engineering Roles
+40.0,1,6,Senior Software Engineer,12.0,160000.0,Engineering Roles
+54.0,2,1,Senior Software Engineer,29.0,158966.0,Engineering Roles
+45.0,0,5,Senior Software Engineer,23.0,174436.0,Engineering Roles
+32.0,1,3,Senior Software Engineer,7.0,106218.0,Engineering Roles
+40.0,0,6,Senior Software Engineer,12.0,160000.0,Engineering Roles
+46.0,1,5,Senior Software Engineer,20.0,174938.0,Engineering Roles
+33.0,0,5,Senior Software Engineer,8.0,105000.0,Engineering Roles
+54.0,2,1,Senior Software Engineer,29.0,158966.0,Engineering Roles
+27.0,0,3,Social Media Manager,3.0,55000.0,Marketing & Sales Roles
+26.0,0,3,Social Media Manager,3.0,55000.0,Marketing & Sales Roles
+30.0,0,2,Social Media Manager,4.0,55000.0,Marketing & Sales Roles
+30.0,1,3,Software Developer,6.0,85000.0,Engineering Roles
+26.0,1,3,Software Developer,2.0,60000.0,Engineering Roles
+24.0,0,3,Software Developer,2.0,55000.0,Engineering Roles
+24.0,0,3,Software Developer,2.0,55000.0,Engineering Roles
+23.0,1,3,Software Developer,1.0,45000.0,Engineering Roles
+26.0,1,3,Software Developer,3.0,60000.0,Engineering Roles
+26.0,1,3,Software Developer,2.0,60000.0,Engineering Roles
+30.0,1,3,Software Developer,6.0,85000.0,Engineering Roles
+26.0,1,3,Software Developer,2.0,60000.0,Engineering Roles
+24.0,0,3,Software Developer,2.0,55000.0,Engineering Roles
+27.0,1,3,Software Developer,3.0,60000.0,Engineering Roles
+29.0,1,4,Software Developer,3.0,75000.0,Engineering Roles
+26.0,1,3,Software Developer,2.0,60000.0,Engineering Roles
+24.0,0,3,Software Developer,2.0,55000.0,Engineering Roles
+29.0,0,3,Software Developer,3.0,65000.0,Engineering Roles
+26.0,1,3,Software Developer,3.0,60000.0,Engineering Roles
+31.0,1,3,Software Developer,6.0,85000.0,Engineering Roles
+27.0,0,3,Software Developer,3.0,61000.0,Engineering Roles
+24.0,0,3,Software Developer,2.0,55000.0,Engineering Roles
+27.0,0,3,Software Developer,3.0,61000.0,Engineering Roles
+24.0,0,3,Software Developer,2.0,55000.0,Engineering Roles
+31.0,1,3,Software Developer,6.0,85000.0,Engineering Roles
+30.0,1,3,Software Developer,6.0,85000.0,Engineering Roles
+29.0,1,3,Software Developer,5.0,80000.0,Engineering Roles
+27.0,0,3,Software Developer,3.0,61000.0,Engineering Roles
+24.0,0,3,Software Developer,2.0,55000.0,Engineering Roles
+23.0,0,3,Software Engineer,1.0,50000.0,Engineering Roles
+23.0,0,3,Software Engineer,1.0,50000.0,Engineering Roles
+28.0,1,2,Software Engineer,5.0,160000.0,Engineering Roles
+32.0,1,2,Software Engineer,8.0,190000.0,Engineering Roles
+32.0,1,2,Software Engineer,5.0,90000.0,Engineering Roles
+27.0,1,2,Software Engineer,4.0,140000.0,Engineering Roles
+34.0,1,2,Software Engineer,12.0,195000.0,Engineering Roles
+29.0,0,2,Software Engineer,4.0,140000.0,Engineering Roles
+32.0,1,2,Software Engineer,8.0,190000.0,Engineering Roles
+31.0,0,2,Software Engineer,6.0,155000.0,Engineering Roles
+31.0,0,2,Software Engineer,6.0,155000.0,Engineering Roles
+40.0,1,3,Software Engineer,12.0,195000.0,Engineering Roles
+27.0,1,3,Software Engineer,3.0,80000.0,Engineering Roles
+28.0,0,2,Software Engineer,5.0,150000.0,Engineering Roles
+35.0,0,5,Software Engineer,9.0,140000.0,Engineering Roles
+31.0,0,2,Software Engineer,6.0,155000.0,Engineering Roles
+27.0,1,3,Software Engineer,2.0,65000.0,Engineering Roles
+27.0,1,2,Software Engineer,4.0,140000.0,Engineering Roles
+26.0,1,3,Software Engineer,1.0,52000.0,Engineering Roles
+27.0,1,2,Software Engineer,4.0,140000.0,Engineering Roles
+27.0,1,3,Software Engineer,3.0,80000.0,Engineering Roles
+30.0,1,4,Software Engineer,6.0,170000.0,Engineering Roles
+27.0,0,3,Software Engineer,3.0,70000.0,Engineering Roles
+28.0,1,3,Software Engineer,4.0,75000.0,Engineering Roles
+27.0,0,3,Software Engineer,3.0,70000.0,Engineering Roles
+28.0,0,2,Software Engineer,5.0,160000.0,Engineering Roles
+27.0,1,3,Software Engineer,3.0,80000.0,Engineering Roles
+28.0,0,2,Software Engineer,5.0,160000.0,Engineering Roles
+34.0,1,2,Software Engineer,12.0,195000.0,Engineering Roles
+27.0,1,3,Software Engineer,3.0,80000.0,Engineering Roles
+28.0,0,2,Software Engineer,5.0,160000.0,Engineering Roles
+27.0,0,3,Software Engineer,3.0,70000.0,Engineering Roles
+28.0,0,2,Software Engineer,5.0,160000.0,Engineering Roles
+30.0,0,3,Software Engineer,5.0,90000.0,Engineering Roles
+27.0,1,2,Software Engineer,4.0,160000.0,Engineering Roles
+42.0,0,3,Software Engineer,13.0,197000.0,Engineering Roles
+27.0,1,2,Software Engineer,4.0,140000.0,Engineering Roles
+25.0,0,5,Software Engineer,2.0,60000.0,Engineering Roles
+27.0,1,3,Software Engineer,3.0,85000.0,Engineering Roles
+28.0,0,2,Software Engineer,5.0,160000.0,Engineering Roles
+29.0,1,3,Software Engineer,4.0,65000.0,Engineering Roles
+32.0,1,2,Software Engineer,8.0,190000.0,Engineering Roles
+25.0,0,5,Software Engineer,2.0,60000.0,Engineering Roles
+26.0,1,3,Software Engineer,1.0,52000.0,Engineering Roles
+27.0,1,2,Software Engineer,5.0,150000.0,Engineering Roles
+32.0,1,2,Software Engineer,8.0,190000.0,Engineering Roles
+30.0,1,3,Software Engineer,5.0,75000.0,Engineering Roles
+28.0,1,3,Software Engineer,4.0,75000.0,Engineering Roles
+27.0,1,3,Software Engineer,3.0,80000.0,Engineering Roles
+23.0,0,3,Software Engineer,1.0,50000.0,Engineering Roles
+30.0,0,2,Software Engineer,8.0,180000.0,Engineering Roles
+29.0,1,2,Software Engineer,6.0,170000.0,Engineering Roles
+27.0,1,2,Software Engineer,4.0,140000.0,Engineering Roles
+30.0,0,3,Software Engineer,5.0,90000.0,Engineering Roles
+29.0,0,2,Software Engineer,4.0,140000.0,Engineering Roles
+27.0,1,3,Software Engineer,3.0,80000.0,Engineering Roles
+23.0,0,3,Software Engineer,1.0,50000.0,Engineering Roles
+23.0,0,3,Software Engineer,1.0,50000.0,Engineering Roles
+29.0,1,2,Software Engineer,6.0,175000.0,Engineering Roles
+30.0,0,3,Software Engineer,5.0,90000.0,Engineering Roles
+28.0,0,3,Software Engineer,4.0,70000.0,Engineering Roles
+29.0,1,2,Software Engineer,4.0,140000.0,Engineering Roles
+28.0,0,2,Software Engineer,5.0,150000.0,Engineering Roles
+31.0,0,2,Software Engineer,6.0,155000.0,Engineering Roles
+31.0,0,2,Software Engineer,6.0,155000.0,Engineering Roles
+32.0,1,2,Software Engineer,8.0,190000.0,Engineering Roles
+28.0,0,2,Software Engineer,5.0,150000.0,Engineering Roles
+28.0,1,3,Software Engineer,3.0,85000.0,Engineering Roles
+23.0,0,3,Software Engineer,1.0,50000.0,Engineering Roles
+27.0,1,3,Software Engineer,3.0,80000.0,Engineering Roles
+30.0,0,3,Software Engineer,5.0,90000.0,Engineering Roles
+28.0,0,2,Software Engineer,5.0,150000.0,Engineering Roles
+28.0,1,2,Software Engineer,4.0,160000.0,Engineering Roles
+27.0,1,3,Software Engineer,3.0,80000.0,Engineering Roles
+23.0,1,3,Software Engineer,1.0,60000.0,Engineering Roles
+27.0,1,3,Software Engineer,3.0,80000.0,Engineering Roles
+27.0,1,2,Software Engineer,4.0,140000.0,Engineering Roles
+28.0,1,2,Software Engineer,4.0,160000.0,Engineering Roles
+34.0,1,3,Software Engineer,6.0,85000.0,Engineering Roles
+30.0,0,3,Software Engineer,5.0,90000.0,Engineering Roles
+28.0,0,2,Software Engineer,5.0,160000.0,Engineering Roles
+30.0,1,3,Software Engineer,5.0,75000.0,Engineering Roles
+23.0,0,3,Software Engineer,1.0,50000.0,Engineering Roles
+30.0,0,3,Software Engineer,5.0,90000.0,Engineering Roles
+25.0,0,5,Software Engineer,2.0,60000.0,Engineering Roles
+28.0,1,3,Software Engineer,4.0,75000.0,Engineering Roles
+29.0,1,3,Software Engineer,4.0,65000.0,Engineering Roles
+28.0,1,3,Software Engineer,4.0,75000.0,Engineering Roles
+29.0,1,3,Software Engineer,4.0,70000.0,Engineering Roles
+32.0,1,2,Software Engineer,8.0,190000.0,Engineering Roles
+26.0,0,3,Software Engineer,2.0,65000.0,Engineering Roles
+29.0,1,3,Software Engineer,4.0,71000.0,Engineering Roles
+27.0,1,2,Software Engineer,4.0,160000.0,Engineering Roles
+31.0,1,3,Software Engineer,4.0,65000.0,Engineering Roles
+30.0,0,3,Software Engineer,5.0,90000.0,Engineering Roles
+31.0,1,2,Software Engineer,9.0,180000.0,Engineering Roles
+27.0,1,2,Software Engineer,4.0,160000.0,Engineering Roles
+32.0,1,2,Software Engineer,8.0,190000.0,Engineering Roles
+27.0,1,2,Software Engineer,5.0,150000.0,Engineering Roles
+25.0,0,5,Software Engineer,2.0,60000.0,Engineering Roles
+27.0,1,2,Software Engineer,4.0,160000.0,Engineering Roles
+31.0,1,3,Software Engineer,7.0,120000.0,Engineering Roles
+29.0,1,2,Software Engineer,7.0,180000.0,Engineering Roles
+23.0,1,3,Software Engineer,1.0,60000.0,Engineering Roles
+23.0,0,3,Software Engineer,1.0,50000.0,Engineering Roles
+31.0,0,2,Software Engineer,6.0,155000.0,Engineering Roles
+25.0,0,5,Software Engineer,2.0,60000.0,Engineering Roles
+32.0,1,2,Software Engineer,10.0,190000.0,Engineering Roles
+47.0,1,6,Software Engineer Manager,21.0,174985.0,Engineering Roles
+44.0,1,6,Software Engineer Manager,19.0,172955.0,Engineering Roles
+54.0,1,6,Software Engineer Manager,17.0,195000.0,Engineering Roles
+54.0,0,6,Software Engineer Manager,32.0,191267.0,Engineering Roles
+24.0,1,6,Software Engineer Manager,1.0,106132.0,Engineering Roles
+49.0,0,6,Software Engineer Manager,22.0,178684.0,Engineering Roles
+42.0,1,6,Software Engineer Manager,14.0,190000.0,Engineering Roles
+49.0,1,5,Software Engineer Manager,23.0,182392.0,Engineering Roles
+56.0,1,6,Software Engineer Manager,17.0,195000.0,Engineering Roles
+55.0,0,6,Software Engineer Manager,29.0,190543.0,Engineering Roles
+54.0,0,6,Software Engineer Manager,32.0,191267.0,Engineering Roles
+58.0,1,6,Software Engineer Manager,17.0,195000.0,Engineering Roles
+37.0,1,5,Software Engineer Manager,10.0,150000.0,Engineering Roles
+45.0,1,6,Software Engineer Manager,16.0,185000.0,Engineering Roles
+42.0,1,5,Software Engineer Manager,13.0,170000.0,Engineering Roles
+55.0,1,6,Software Engineer Manager,18.0,210000.0,Engineering Roles
+54.0,1,6,Software Engineer Manager,17.0,195000.0,Engineering Roles
+36.0,1,3,Software Engineer Manager,8.0,135000.0,Engineering Roles
+56.0,1,6,Software Engineer Manager,17.0,195000.0,Engineering Roles
+57.0,1,6,Software Engineer Manager,18.0,200000.0,Engineering Roles
+36.0,1,3,Software Engineer Manager,8.0,135000.0,Engineering Roles
+41.0,1,5,Software Engineer Manager,14.0,180000.0,Engineering Roles
+25.0,1,6,Software Engineer Manager,12.0,169159.0,Engineering Roles
+24.0,1,6,Software Engineer Manager,1.0,106686.0,Engineering Roles
+54.0,1,6,Software Engineer Manager,28.0,188484.0,Engineering Roles
+54.0,1,6,Software Engineer Manager,17.0,195000.0,Engineering Roles
+38.0,1,6,Software Engineer Manager,12.0,141735.0,Engineering Roles
+54.0,1,6,Software Engineer Manager,16.0,190000.0,Engineering Roles
+42.0,1,5,Software Engineer Manager,13.0,170000.0,Engineering Roles
+54.0,1,6,Software Engineer Manager,17.0,195000.0,Engineering Roles
+54.0,1,6,Software Engineer Manager,17.0,195000.0,Engineering Roles
+37.0,0,3,Software Engineer Manager,11.0,170000.0,Engineering Roles
+39.0,0,5,Software Engineer Manager,12.0,160000.0,Engineering Roles
+62.0,1,6,Software Engineer Manager,19.0,200000.0,Engineering Roles
+49.0,1,6,Software Engineer Manager,15.0,185000.0,Engineering Roles
+34.0,1,5,Software Engineer Manager,9.0,146075.0,Engineering Roles
+60.0,1,6,Software Engineer Manager,18.0,195000.0,Engineering Roles
+49.0,1,6,Software Engineer Manager,15.0,185000.0,Engineering Roles
+51.0,1,6,Software Engineer Manager,16.0,190000.0,Engineering Roles
+49.0,0,6,Software Engineer Manager,22.0,178684.0,Engineering Roles
+39.0,0,5,Software Engineer Manager,12.0,160000.0,Engineering Roles
+29.0,1,6,Software Engineer Manager,6.0,106662.0,Engineering Roles
+46.0,0,6,Software Engineer Manager,23.0,168304.0,Engineering Roles
+39.0,0,5,Software Engineer Manager,11.0,170000.0,Engineering Roles
+36.0,1,3,Software Engineer Manager,8.0,135000.0,Engineering Roles
+40.0,1,5,Software Engineer Manager,16.0,150301.0,Engineering Roles
+42.0,1,5,Software Engineer Manager,13.0,170000.0,Engineering Roles
+54.0,1,6,Software Engineer Manager,17.0,195000.0,Engineering Roles
+43.0,0,5,Software Engineer Manager,11.0,160000.0,Engineering Roles
+46.0,1,6,Software Engineer Manager,14.0,180000.0,Engineering Roles
+42.0,1,6,Software Engineer Manager,14.0,190000.0,Engineering Roles
+52.0,1,6,Software Engineer Manager,26.0,185982.0,Engineering Roles
+37.0,0,3,Software Engineer Manager,11.0,170000.0,Engineering Roles
+42.0,1,5,Software Engineer Manager,13.0,170000.0,Engineering Roles
+56.0,1,6,Software Engineer Manager,17.0,195000.0,Engineering Roles
+23.0,1,6,Software Engineer Manager,0.0,52612.0,Engineering Roles
+49.0,1,6,Software Engineer Manager,15.0,185000.0,Engineering Roles
+60.0,0,6,Software Engineer Manager,33.0,179180.0,Engineering Roles
+52.0,1,6,Software Engineer Manager,23.0,161568.0,Engineering Roles
+51.0,1,6,Software Engineer Manager,16.0,190000.0,Engineering Roles
+43.0,0,6,Software Engineer Manager,19.0,156486.0,Engineering Roles
+41.0,0,6,Software Engineer Manager,14.0,185000.0,Engineering Roles
+44.0,0,6,Software Engineer Manager,18.0,161621.0,Engineering Roles
+39.0,0,5,Software Engineer Manager,12.0,160000.0,Engineering Roles
+32.0,1,3,Software Engineer Manager,9.0,104661.0,Engineering Roles
+52.0,1,6,Software Engineer Manager,27.0,190596.0,Engineering Roles
+54.0,1,6,Software Engineer Manager,18.0,195000.0,Engineering Roles
+49.0,1,5,Software Engineer Manager,22.0,182237.0,Engineering Roles
+49.0,1,6,Software Engineer Manager,15.0,185000.0,Engineering Roles
+40.0,1,5,Software Engineer Manager,17.0,151670.0,Engineering Roles
+52.0,1,6,Software Engineer Manager,26.0,185462.0,Engineering Roles
+38.0,1,3,Software Engineer Manager,11.0,155000.0,Engineering Roles
+49.0,1,6,Software Engineer Manager,15.0,185000.0,Engineering Roles
+45.0,1,6,Software Engineer Manager,16.0,185000.0,Engineering Roles
+39.0,1,5,Software Engineer Manager,14.0,142360.0,Engineering Roles
+24.0,0,3,Web Developer,1.0,40000.0,Engineering Roles
+36.0,0,5,Web Developer,7.0,85000.0,Engineering Roles
+27.0,0,3,Web Developer,2.0,50000.0,Engineering Roles
+33.0,1,3,Web Developer,5.0,70000.0,Engineering Roles
+28.0,1,3,Web Developer,4.0,65000.0,Engineering Roles
+35.0,1,3,Web Developer,6.0,80000.0,Engineering Roles
+30.0,0,3,Web Developer,4.0,65000.0,Engineering Roles
+34.0,1,5,Web Developer,8.0,90000.0,Engineering Roles
+29.0,0,5,Web Developer,3.0,60000.0,Engineering Roles
+27.0,1,5,Web Developer,2.0,50000.0,Engineering Roles
+26.0,0,3,Web Developer,3.0,55000.0,Engineering Roles
+36.0,1,3,Web Developer,10.0,100000.0,Engineering Roles
+25.0,1,1,Web Developer,2.0,45000.0,Engineering Roles
+27.0,0,5,Web Developer,2.0,50000.0,Engineering Roles
+28.0,1,3,Web Developer,4.0,65000.0,Engineering Roles
+30.0,1,3,Web Developer,4.0,65000.0,Engineering Roles
+30.0,1,3,Web Developer,5.0,70000.0,Engineering Roles

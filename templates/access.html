@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Access Page</title>
+    <link rel="stylesheet" href="static/access.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <div class="navbar">
+        <img src="C:\Users\DS\.vscode\FDS_PROJECT\Frontend\salary.jpg" alt="Logo" class="logo">
+        <a href="/homepage">Home</a>
+        <a href="#company_data">Company Data</a>
+        <a href="/admin" class="active">Admin</a>
+        <a href="/salarypredictor">Salary Predictor</a>
+    </div>
+
+    <!-- Main Container (similar to Admin) -->
+    <div class="admin-container">
+        <!-- Sidebar (same as Admin page) -->
+        <div class="admin-sidebar">
+            <ul>
+                <li><a href="/add_remove">Add/Remove</a></li>
+                <li><a href="/access" class="active">Access</a></li>
+            </ul>
+        </div>
+
+        <!-- Content Area with Table -->
+        <div class="admin-content">
+            <h1>Access Page</h1>
+            <p>Here you can manage access permissions.</p>
+
+            <!-- Table in the center -->
+            <form action = "/access" method = "POST">
+                <table class="access-table">
+                    <thead>
+                        <tr>
+                            <th>Email ID</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    {%for user in users%}
+                        <tr>
+                            <td>{{user.email}}</td>
+                            <!-- Check if user is admin -->
+                            <td><!-- Check if user is admin -->
+                                <input type="checkbox" name="is_admin_{{user.email}}" {% if user.is_admin %} checked {% endif %}>
+                                <!-- Hidden field to store user ID -->
+                                <input type="hidden" name="user_ids" value="{{ user.email }}">
+                            </td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+                <button type="submit">Update Access</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

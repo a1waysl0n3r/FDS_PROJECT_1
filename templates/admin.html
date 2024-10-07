@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="static/admin.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <div class="navbar">
+        <a class="navbar-brand" href="#">
+            <img src="static/salary.jpg" alt="Logo" class="logo">
+        </a>
+        <a href="/homepage">Home</a>
+        <a href="company_data.html">Company Data</a>
+        <a href="/salary_predictor">Salary Predictor</a>
+        <a href="/admin" class="active">Admin</a>
+    </div>
+
+    <!-- Admin Panel Section -->
+    <div class="admin-container">
+        <!-- Left column with options -->
+        <div class="admin-sidebar">
+            <ul>
+                <li><a href="/add_remove">Add/Remove</a></li>
+                <li><a href="/access">Give Access</a></li>
+            </ul>
+        </div>
+
+        <!-- Content area (you can expand this later) -->
+        <div class="admin-content">
+            <h1>Welcome to the Admin Panel</h1>
+            <p>Select an option from the left menu to manage roles.</p>
+        </div>
+    </div>
+
+    <script src="admin_script.js"></script>
+</body>
+</html>

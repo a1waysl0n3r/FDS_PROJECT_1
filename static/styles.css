@@ -1,0 +1,52 @@
+/* General styles */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    padding: 1rem;
+}
+
+.logo {
+    width: 50px;
+    height: auto;
+    margin-right: 10px;
+    vertical-align: middle; /* Align logo with text */
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center; /* Align logo and text */
+}
+
+.main-section {
+    padding: 100px 0;
+    background-color: #f4f4f4;
+    min-height: 60vh;
+}
+
+.main-title {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.description {
+    font-size: 1.2rem;
+    color: #666;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.footer {
+    padding: 20px 0;
+    background-color: #333;
+    color: #fff;
+}
+
+.footer p {
+    margin: 5px 0;
+}
