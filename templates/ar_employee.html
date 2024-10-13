@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Add/Remove Users</title>
+    <title>Add/Remove Employees</title>
     <link rel="stylesheet" href="static/admin.css">
     <style>
         .user-table {
@@ -25,9 +25,6 @@
         }
         .user-table tr:hover {
             background-color: #f5f5f5;
-        }
-        .salary-input {
-            width: 100px; /* Adjust width as needed */
         }
     </style>
 </head>
@@ -56,41 +53,29 @@
 
         <!-- Content area with table -->
         <div class="admin-content">
-            <h1>Add/Remove Users</h1>
+            <h1>Add/Remove Employees</h1>
             <table class="user-table">
                 <thead>
                     <tr>
-                        <th>Email</th>
                         <th>Age</th>
                         <th>Gender</th>
-                        <th>Education</th>
                         <th>Years of Experience</th>
                         <th>Job Role</th>
                         <th>Job Title</th>
-                        <th>Salary</th>
                         <th>Actions</th>
                     </tr>
                 </thead>
                 <tbody>
                     {% for user in users %}
                         <tr>
-                            <td>{{ user.email }}</td>
                             <td>{{ user.age }}</td>
                             <td>{{ user.gender }}</td>
-                            <td>{{ user.education }}</td>
                             <td>{{ user.yearsOfExperience }}</td>
                             <td>{{ user.jobRole }}</td>
                             <td>{{ user.jobTitle }}</td>
+                            <td>{{ user.salary }}</td>
                             <td>
-                                <input type="number" name="salary" class="salary-input" placeholder="Salary" required>
-                            </td>
-                            <td>
-                                <form method="POST" action="/add-to-company" style="display: inline;">
-                                    <input type="hidden" name="user_id" value="{{ user.id }}">
-                                    <input type="hidden" name="salary" value="">
-                                    <button type="submit">Add</button>
-                                </form>
-                                <form method="POST" action="/remove-application" style="display: inline;">
+                                <form method="POST" action='/remove' style="display: inline;">
                                     <input type="hidden" name="user_id" value="{{ user.id }}">
                                     <button type="submit">Delete</button>
                                 </form>
@@ -103,16 +88,13 @@
     </div>
 
     <script>
-        // Attach event listeners to forms to capture salary input
-        document.querySelectorAll('form').forEach(form => {
-            form.addEventListener('submit', function(event) {
-                const salaryInput = this.closest('tr').querySelector('input[name="salary"]');
-                if (salaryInput) {
-                    // Update the hidden salary input with the entered salary
-                    this.querySelector('input[name="salary"]').value = salaryInput.value;
-                }
-            });
-        });
+        function editUser(userId) {
+            console.log('Edit user with ID:', userId);
+        }
+
+        function deleteUser(userId) {
+            console.log('Delete user with ID:', userId);
+        }
     </script>
 </body>
 </html>

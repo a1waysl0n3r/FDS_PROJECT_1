@@ -12,11 +12,12 @@
         <a class="navbar-brand" href="#">
             <img src="static/salary.jpg" alt="Logo" class="logo">
         </a>
-        <a href="home_page.html" class="active">Home</a>
-        <a href="company_data.html">Company Data</a>
-        <a href="salary_predictor.html">Salary Predictor</a>
+        <a href="/homepage" class="active">Home</a>
+        <a href="/company_data">Company Data</a>
+        <a href="/salary_predictor">Salary Predictor</a>
+        <a href="/vacancy">Vacancy</a>
         {%if session.get('is_admin')%}
-            <a href="admin.html">Admin</a>
+            <a href="/admin">Admin</a>
         {%endif%}
     </div>
 
@@ -26,7 +27,7 @@
             <!-- Left Section: Job Form -->
             <div class="container" id="job-form-container">
                 <h1>Job Role Selector</h1>
-                <form id="job-form" method="POST">
+                <form id="job-form" method="POST", action ="/salary_predictor">
                     <div class="form-group">
                         <label for="age">Age (18-64):</label>
                         <input type="number" id="age" name="age" min="18" max="64" required>
@@ -74,7 +75,8 @@
                             <option value="" disabled selected>Select a job title</option>
                         </select>
                     </div>
-                    <button type="submit" id="submit">Submit</button>
+                    <button type="submit" name="action" value="submit" id="submit">Submit</button>
+                    <button type="submit" name="action" value="submit_add" id="submit_add">Add Profile</button>
                 </form>
                 <div id="selected-job"></div>
             </div>
